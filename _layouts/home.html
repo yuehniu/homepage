@@ -1,19 +1,27 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<div class="two-columns">
+  {%- include head.html -%}
 
+  <body>
 
-  <section>
-    {{ content }}
-  </section>
+    {%- include header.html -%}
 
-  <aside>
-    this is a test.
-  </aside>
+    <div class="two-columns" aria-label="Content">
+      <section>
+        {{ content }}
+      </section>
 
-</div>
+      <section>
+        this is a test
+      </section>>
+    </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
 
 <!--
 <div class="home">
