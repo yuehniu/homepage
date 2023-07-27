@@ -55,4 +55,8 @@
       then designs architecture in FPGA to efficiently support real-time inference. 
       He also proposes SPEC2 to compress and accelerate a NN model in the frequency domain.
 
+### News
+
+Our paper has been accepted to TMLR 2023.
+
 <div class="end-examples"></div>
