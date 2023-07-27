@@ -9,7 +9,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Looking for support?
 
-We'd love to help. Check out [the support guidelines](SUPPORT.md).
+We'd love to help. Check out SUPPORT.md.
 
 ## How to report a bug
 
