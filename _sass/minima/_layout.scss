@@ -339,3 +339,13 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+/* container */
+.two_columns {
+  display: flex;
+}
+
+.two-columns > * {
+    width:50%;
+    padding:1rem;
+}
