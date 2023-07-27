@@ -1,5 +1,6 @@
 <div class="begin-examples"></div>
 
+## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
   the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
@@ -15,6 +16,8 @@
   affordable at the edge
   
   Below are his detailed research directions and achievement:
+
+---
 
   - **Efficient Private Machine Learning in TEE**
 
