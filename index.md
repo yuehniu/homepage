@@ -1,6 +1,4 @@
----
-layout: home
----
+
 
 <div class="two-columns">
   <section>
