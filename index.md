@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="two-columns">
-  <section>1
+  <section>
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
   the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
@@ -58,9 +58,9 @@ layout: home
   
   </section>
 
-  <section>2
+  <section>
   This is a test
   </section>
-</div>>
+</div>
 
 
