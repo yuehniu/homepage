@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Bio
 He is a Ph.D. candidate at the University of Southern California (USC), 
 working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
 the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 

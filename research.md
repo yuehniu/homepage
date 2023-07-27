@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 ---
 
-## Welcome to another page
+## Research
 
 _yay_
 
