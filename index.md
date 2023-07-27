@@ -1,4 +1,6 @@
-<div class="begin-examples"></div>
+---
+layout: home
+---
 
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
@@ -55,6 +57,8 @@
       then designs architecture in FPGA to efficiently support real-time inference. 
       He also proposes SPEC2 to compress and accelerate a NN model in the frequency domain.
 
+---
+
 ### News
 
 Our paper has been accepted to TMLR 2023.
@@ -62,5 +66,3 @@ Our paper has been accepted to TMLR 2023.
 ```
 code block 1
 ```
-
-<div class="end-examples"></div>
