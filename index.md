@@ -15,110 +15,37 @@ combining with TEEs to boost privacy protection in practice.
 He also did a lot of work on making neural network training and inference fast and 
 affordable at the edge
 
-## Header 2
+Below are his detailed research directions and achievement:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Efficient Private Machine Learning in TEE
 
-### Header 3
+    Model training or inference in TEEs, though provides strong privacy protection, 
+    suffers significant performance degradation compared to commonly used DNN libraries using GPUs. 
+    His work AsymML and 3LegRace is aimed to shrink the performance gap by leveraging both TEEs and GPUs, 
+    where GPUs are used to guarantee computing performance, and TEEs are used to preserve privacy.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Federated Learning at the Edge
+  
+    Federated learning of large models at the edge faces significant challenges 
+    in terms of computation, communication, and memory costs. 
+    As a result, many edge devices, such as smart home assistants, though rich in data, 
+    cannot leverage large models to improve their performance. 
+    In his work, he proposes sub-model training methods that effectively decompose 
+    a large model and assign each client a sub-model during training.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Differential Privacy in Machine Learning
 
-#### Header 4
+    Differential privacy (DP) provides a formal quantitative metric to measure privacy leakage 
+    against attackers. However, DP usually suffers notable performance loss with 
+    a high privacy budget. In his paper 3LegRace, he combines improves DP’s performance 
+    by combining with TEEs, e.g., Intel SGX. By first decomposing input data into 
+    trusted and untrusted parts and securing trusted parts in TEEs, 
+    a very small noise is required to be added into the untrusted part to 
+    provide a strong privacy guarantee.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Neural Network Acceleration
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+    He also proposed several novel parallel architectures to accelerate neural network computation. 
+    In one of his works, he first downsizes a model using its low-rank approximation and 
+    then designs architecture in FPGA to efficiently support real-time inference [link]. 
+    He also proposes SPEC2 to compress and accelerate a NN model in the frequency domain.
