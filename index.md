@@ -1,6 +1,5 @@
----
-layout: home
----
+<div class="begin-examples"></div>
+<div class="end-examples"></div>
 
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
