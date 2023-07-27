@@ -8,3 +8,7 @@ social_link:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+header_pages:
+  - publication.md
+  - research.md
+  - blog.md
