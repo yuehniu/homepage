@@ -1,5 +1,4 @@
 <div class="begin-examples"></div>
-<div class="end-examples"></div>
 
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
@@ -53,4 +52,4 @@
       then designs architecture in FPGA to efficiently support real-time inference. 
       He also proposes SPEC2 to compress and accelerate a NN model in the frequency domain.
 
-
+<div class="end-examples"></div>
