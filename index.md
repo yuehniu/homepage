@@ -59,4 +59,8 @@
 
 Our paper has been accepted to TMLR 2023.
 
+```
+code block 1
+```
+
 <div class="end-examples"></div>
