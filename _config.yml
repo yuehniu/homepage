@@ -1,4 +1,4 @@
-title: Homepage
+title: Yue (Julien) Niu's Homepage
 author:
   name: Yue (Julien) Niu
   email: yueniu@usc.edu
@@ -47,10 +47,10 @@ minima:
 # order as they should show up.
 #
   header_pages:
-   - publication.md
-   - research.md
-   - blog.md
+    - publication.md
+    - research.md
+    - blog.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-# show_excerpts: false
+  show_excerpts: false
