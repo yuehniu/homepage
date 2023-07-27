@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Yue (Julien) Niu
 logo: /assets/img/yellowstone.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: My personal site.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

@@ -2,17 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Bio
+He is a Ph.D. candidate at the University of Southern California (USC), 
+working with Professor Salman Avestimehr, the director of Information Theory and Machine Learning (vITAL) Lab. 
+He also once worked with Professor Viktor Prasanna on FPGA/parallel computing. 
+Before that, He got master’s and bachelor’s degree from Northwestern Polytechnical University in Xi’an, China.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+His research interests cover various aspects of privacy in machine learning, 
+including applying information theory and differential privacy 
+to enhance privacy protection in machine learning, federated learning, and 
+combining with TEEs to boost privacy protection in practice. 
+He also did a lot of work on making neural network training and inference fast and 
+affordable at the edge
 
 ## Header 2
 
