@@ -1,7 +1,7 @@
+---
+layout: home
+---
 
-
-<div class="two-columns">
-  <section>
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
   the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
@@ -53,12 +53,5 @@
       In one of his works, he first downsizes a model using its low-rank approximation and 
       then designs architecture in FPGA to efficiently support real-time inference. 
       He also proposes SPEC2 to compress and accelerate a NN model in the frequency domain.
-  
-  </section>
-
-  <section>
-  This is a test
-  </section>
-</div>
 
 
