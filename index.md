@@ -63,6 +63,8 @@ PhD candidate in Dept of ECE at University of Southern California (USC).
 
 ## News
 
-`July 2023`: Our paper: 
-"mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization",
-has been accepted to *Transaction on Machine Learning Research (TMLR)*, 2023.
+`July 2023`
+- Our paper: "mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization",
+is accepted to **Transaction on Machine Learning Research (TMLR)**, 2023.
+- Our paper: "Performance and Failure Cause Estimation for Machine Learning Systems in the Wild", 
+is accepted to **International Conference on Computer Vision Systems (ICVS)**, 2023
