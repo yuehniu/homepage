@@ -29,8 +29,6 @@ layout: home
   
 ## Research Highlight
 
----
-
   - **Efficient Private Machine Learning in TEE**
 
     Model training or inference in TEEs, though provides strong privacy protection, 
