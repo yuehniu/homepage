@@ -4,6 +4,11 @@ layout: home
 
 PhD candidate in Dept of ECE at University of Southern California (USC).
 
+[`Scholar`](https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en) --
+[`Linkedin`](https://www.linkedin.com/in/yue-niu-a3084216a/) --
+[`Github`](https://github.com/yuehniu) --
+[`CV`](https://drive.google.com/file/d/1kSlH8tRNY-JdNR_AdII9WraQwunO0BwR/view?usp=sharing)
+
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
