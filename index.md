@@ -61,10 +61,8 @@ PhD candidate in Dept of ECE at University of Southern California (USC).
 
 ---
 
-### News
+---
+
+## News
 
 Our paper has been accepted to TMLR 2023.
-
-```
-code block 1
-```
