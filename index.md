@@ -6,9 +6,9 @@ PhD candidate in Dept of ECE at University of Southern California (USC).
 
 <img src="assets/fig/yellowstone.jpeg" alt="drawing" width="100"/>
 
-[`Scholar`](https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en) --
-[`Linkedin`](https://www.linkedin.com/in/yue-niu-a3084216a/) --
-[`Github`](https://github.com/yuehniu) --
+[`Scholar`](https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en) ----
+[`Linkedin`](https://www.linkedin.com/in/yue-niu-a3084216a/) ----
+[`Github`](https://github.com/yuehniu) ----
 [`CV`](https://drive.google.com/file/d/1kSlH8tRNY-JdNR_AdII9WraQwunO0BwR/view?usp=sharing)
 
 ## Bio  
