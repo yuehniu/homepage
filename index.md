@@ -2,7 +2,7 @@
 layout: home
 ---
 
-PhD candidate in Dept of ECE at University of Southern California (USC).
+**PhD candidate** in Dept of ECE at **University of Southern California (USC)**.
 
 <img src="assets/fig/yellowstone.jpeg" alt="drawing" width="100"/>
 
@@ -25,7 +25,7 @@ PhD candidate in Dept of ECE at University of Southern California (USC).
   combining with TEEs to boost privacy protection in practice. 
   He also did research on `neural network acceleration` at the edge
   
-  Below are his detailed research directions and achievement:
+## Research Highlight
 
 ---
 
@@ -75,3 +75,17 @@ is accepted to **Transaction on Machine Learning Research (TMLR)**, 2023.
 - 
 - Our paper: "Performance and Failure Cause Estimation for Machine Learning Systems in the Wild", 
 is accepted to **International Conference on Computer Vision Systems (ICVS)**, 2023
+
+---
+
+## Academic Service
+
+**Peer Reviewer**: 
+
+`ICLR` --- 2022(2) --- 2021(2)
+
+`NeurIPS` --- 2023(6) --- 2022(4)
+
+`ICML` --- 2023(4)
+
+`KDD` --- 2023 (3)
