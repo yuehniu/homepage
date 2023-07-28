@@ -24,6 +24,8 @@ layout: home
   to enhance privacy protection in machine learning, federated learning, and 
   combining with TEEs to boost privacy protection in practice. 
   He also did research on `neural network acceleration` at the edge
+
+---
   
 ## Research Highlight
 
