@@ -17,7 +17,7 @@ Along this line of research, we leverage low-rank structure of data and propose 
 achieves privacy-preserving model learning and inference.  
 [`Read More ... `](_research/asymml.md)  
 
-[`Read More ... `](_post/2016-05-19-super-short-article.md)
+[`Read More ... `](_posts/2016-05-19-super-short-article.md)
 
 ---
 
