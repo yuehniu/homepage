@@ -5,6 +5,8 @@ layout: home
 **PhD candidate** in Dept of ECE at **University of Southern California (USC)**.
 
 <img src="assets/fig/yellowstone.jpeg" alt="drawing" width="100"/>
+<img src="assets/fig/usc.png" alt="drawing" width="104"/>
+<img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
 
 [`Scholar`](https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en) ---
 [`Linkedin`](https://www.linkedin.com/in/yue-niu-a3084216a/) ---
@@ -119,5 +121,5 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 ## Awards
 
-**Best Poster Award** at [USC-Amazon Annual Symposium on Secure and Trusted ML](https://trustedai.usc.edu/),
+**Best Poster Award** at [USC-Amazon Annual Symposium on Secure and Trusted ML](https://trustedai.usc.edu/)  
 Los Angeles, 2023.
