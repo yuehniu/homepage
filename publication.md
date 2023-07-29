@@ -7,6 +7,7 @@ layout: page
 **2023**
 
 ---
+
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023
@@ -14,5 +15,65 @@ layout: page
 Xiruo Liu, **Yue Niu**, Furqan Khan and Prateek Singhal,  
 <u>Performance and Failure Cause Estimation for Machine Learning Systems in the Wild</u>,  
 `Conference on Computer Vision Systems (ICVS)`, 2023
+
+**2022**
+
+---
+
+**Yue Niu**, Ramy E. Ali, Salman Avestimehr,  
+<u> 3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs</u>,  
+`Privacy Enhancing Technologies Symposium (PETs)`, 2022.
+
+**Yue Niu**,  Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
+<u> Federated Learning of Large Models at the Edge via Principal Sub-Model Training</u>,  
+`International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022
+
+Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,  
+<u> Federated sparse training: Lottery aware model compression for resource-constrained edge</u>,  
+`International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022
+
+**2021**
+
+---
+
+**Yue Niu**, Salman Avestimehr,  
+<u>AsymmetricML: An Asymmetric Decomposition Framework for Privacy-Preserving DNN Training and Inference </u>,  
+`ICLR Workshop on Distributed and Private Machine Learning`, 2021.
+
+**Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
+<u>SLIM-QN: A Stochastic, Light, Momentumized Quasi-Newton Optimizer for Deep Networks</u>,  
+`ICML Workshop on the Optimization`, 2021
+
+**2020**
+
+---
+
+**Yue Niu**, Rajgopal Kannan, Ajitesh Srivastava, Viktor Prasanna,  
+<u>Reuse Kernels or Activations? A Flexible Dataflow for Low-latency Spectral CNN Acceleration</u>,  
+`ACM/SIGDA International Conference on Field-Programmable Gate Arrays (FPGA)`, (**Oral**), 2020
+
+**Yue Niu**, Hanqing Zeng, Ajitesh Srivastava, Kartik Lakhotia, Rajgopal Kannan, Yanzhi Wang, Viktor Prasanna,  
+<u>SPEC2: SPECtral SParsE CNN Accelerator on FPGAs</u>,  
+`IEEE International Conference on High Performance Computing (HiPC)` (**Oral**), 2020.
+
+**Before 2020**
+
+---
+
+Wei Zhou, **Yue Niu**, Guanwen Zhang,  
+<u>Sensitivity-oriented layer-wise acceleration and compression for convolutional neural network</u>,  
+`IEEE Access`, 2019. 
+
+Chunsheng Mei, Zhenyu Liu, **Yue Niu**, Xiangyang Ji, Wei Zhou, Dongsheng Wang,  
+<u>A 200MHZ 202.4GFLOPS@10.8W VGG16 Accelerator in XILINX VX690T</u>,  
+`IEEE Global Conference on Signal and Information Processing (GlobalSIP)` (**Oral**), 2017.
+
+**Yue Niu**, Chunsheng Mei, Zhenyu Liu, Xiangyang Ji, Wei Zhou, Dongsheng Wang,  
+<u>Sensitivity-Based Acceleration and Compression Algorithm for Convolutional Neural Network</u>,  
+`IEEE Global Conference on Signal and Information Processing (GlobalSIP)` (**Oral**), 2017. 
+
+**Yue Niu**, Wei Zhou, Xiaocong Lian, Xin Zhou, Jiamin Yang,  
+<u>A Stepped-RAM Reading and Multiplierless VLSI Architecture for Intra Prediction in HEVC</u>,  
+`The Pacific-Rim Conference on Multimedia (PCM)`, 2016
 
 [back](./)
