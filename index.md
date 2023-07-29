@@ -114,3 +114,10 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 `ICML` --- 2023(4)
 
 `KDD` --- 2023 (3)
+
+---
+
+## Awards
+
+**Best Poster Award** at [USC-Amazon Annual Symposium on Secure and Trusted ML](https://trustedai.usc.edu/),
+Los Angeles, 2023.
