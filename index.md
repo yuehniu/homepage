@@ -97,8 +97,9 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 **Research Intern** at *Tsinghua University* <img src="assets/fig/tsinghua.png" alt="drawing" width="40"/>
 `2021/6` --- `2021/9`  
-`Topic`: Personalized model compression using knowledge distillation  
-`Collaborator`: Furqan Khan, Pradeep Natarajan, Salman Avestimehr
+`Topic`: Neural network acceleration on FPGA  
+`Collaborator`: Zhenyu Liu, Xiangyang Ji  
+[`Demo`](https://youtu.be/eFW8OTIur38) --- [`Paper`](https://ieeexplore.ieee.org/abstract/document/8309067)
 
 ---
 
