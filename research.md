@@ -15,7 +15,9 @@ layout: page
 Exploring low-rank structure of **data** in machine learning is very important. 
 Along this line of research, we leverage low-rank structure of data and propose asymmetric learning framework that
 achieves privacy-preserving model learning and inference.  
-[`Read More ... `](_posts/asymml.md)
+[`Read More ... `](_posts/2022-07-29-asymml.md)
+
+[test](_posts/2016-05-20-this-post-demonstrates-post-content-styles.md)
 
 ---
 
