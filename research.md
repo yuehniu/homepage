@@ -4,7 +4,7 @@ layout: page
 
 ## Research
 
-<img src="assets/fig/research.png.png" alt="drawing" width="100"/>
+<img src="assets/fig/research.png" alt="drawing" width="100"/>
 
 _yay_
 

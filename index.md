@@ -83,6 +83,25 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 ---
 
+## Experience
+
+**Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
+`2022/6` --- `2022/9`  
+`Topic`: Estimate a CV model’s performance in the wild  
+`Collaborator`: Furqan Khan, Pradeep Natarajan, Ruoxi Liu
+
+**Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
+`2021/6` --- `2021/9`  
+`Topic`: Personalized model compression using knowledge distillation  
+`Collaborator`: Furqan Khan, Pradeep Natarajan, Salman Avestimehr
+
+**Research Intern** at *Tsinghua University* <img src="assets/fig/tsinghua.png" alt="drawing" width="40"/>
+`2021/6` --- `2021/9`  
+`Topic`: Personalized model compression using knowledge distillation  
+`Collaborator`: Furqan Khan, Pradeep Natarajan, Salman Avestimehr
+
+---
+
 ## Academic Service
 
 **Peer Reviewer**: 
