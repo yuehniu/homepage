@@ -4,6 +4,8 @@ layout: default
 
 ## Blogs
 
-_yay_
+<img src="assets/fig/blog.png" alt="drawing" width="100"/>
+
+Stay tuned.
 
 [back](./)
