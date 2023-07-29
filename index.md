@@ -24,8 +24,8 @@ layout: home
   His research interests cover various aspects of `privacy in machine learning`, 
   including applying information theory and differential privacy 
   to enhance privacy protection in machine learning, federated learning, and 
-  combining with TEEs to boost privacy protection in practice. 
-  He also did research on `neural network acceleration` at the edge
+  combining with TEEs to boost privacy protection in practice.  
+  He also did research on `neural network acceleration` at the edge and `efficient machine learning optimization`.
 
 ---
   
