@@ -13,7 +13,7 @@ layout: page
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
-[`Link`](https://openreview.net/forum?id=9jnsPp8DP3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) --- 
+[`OpenReview`](https://openreview.net/forum?id=9jnsPp8DP3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) --- 
 [`PDF`](https://arxiv.org/abs/2307.13744)
 
 Xiruo Liu, **Yue Niu**, Furqan Khan and Prateek Singhal,  
@@ -27,17 +27,21 @@ Xiruo Liu, **Yue Niu**, Furqan Khan and Prateek Singhal,
 **Yue Niu**, Ramy E. Ali, Salman Avestimehr,  
 <u> 3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs</u>,  
 `Privacy Enhancing Technologies Symposium (PETs)`, 2022  
-[`PDF`](https://petsymposium.org/popets/2022/popets-2022-0105.pdf) --- 
+[`Paper`](https://petsymposium.org/popets/2022/popets-2022-0105.pdf) --- 
 [`Code`](https://github.com/yuehniu/asymmetricML) --- 
-[`Presentation`](https://www.youtube.com/watch?v=AlnCVAe-mHg&t=2s)
+[`Video`](https://www.youtube.com/watch?v=AlnCVAe-mHg&t=2s)
 
 **Yue Niu**,  Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
 <u> Federated Learning of Large Models at the Edge via Principal Sub-Model Training</u>,  
-`International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022
+`International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022  
+[`Paper`](https://arxiv.org/abs/2208.13141) ---
+[`Link`](https://federated-learning.org/fl-neurips-2022/)
 
 Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,  
 <u> Federated sparse training: Lottery aware model compression for resource-constrained edge</u>,  
-`International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022
+`International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022  
+[`Paper`](https://arxiv.org/abs/2208.13092) ---
+[`Link`](https://federated-learning.org/fl-neurips-2022/)
 
 **2021**
 
@@ -45,11 +49,15 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 
 **Yue Niu**, Salman Avestimehr,  
 <u>AsymmetricML: An Asymmetric Decomposition Framework for Privacy-Preserving DNN Training and Inference </u>,  
-`ICLR Workshop on Distributed and Private Machine Learning`, 2021.
+`ICLR Workshop on Distributed and Private Machine Learning`, 2021.  
+[`Paper`](https://petsymposium.org/popets/2022/popets-2022-0105.pdf) --- 
+[`Link`](https://dp-ml.github.io/2021-workshop-ICLR/)
 
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>SLIM-QN: A Stochastic, Light, Momentumized Quasi-Newton Optimizer for Deep Networks</u>,  
-`ICML Workshop on the Optimization`, 2021
+`ICML Workshop on the Optimization`, 2021  
+[`Paper`](https://arxiv.org/abs/2307.13744) --- 
+[`Link`](https://sites.google.com/view/optml-icml2021)
 
 **2020**
 
