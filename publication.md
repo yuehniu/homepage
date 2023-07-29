@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="assets/fig/publication.png" alt="drawing" width="100"/>
+## <img src="assets/fig/publication.png" alt="drawing" width="100"/>
 
 ## Publications
 
