@@ -39,4 +39,21 @@ We investigate a new sub-model training method that reduces computations at the 
 
 ---
 
+### High-Order Optimization on Large-Scale NN Training
+Collaborated with 
+[Zalan Fabian](https://scholar.google.com/citations?hl=en&user=5EKjsXQAAAAJ),
+[Sunwoo Lee](https://scholar.google.com/citations?user=WA9KNNcAAAAJ&hl=en),
+[Mahdi Soltanolkotabi](https://scholar.google.com/citations?hl=en&user=narJyMAAAAAJ),
+[Salman Avestimehr](https://scholar.google.com/citations?user=Qhe5ua0AAAAJ&hl=en)
+
+<img src="assets/fig/mlbfgs/mLBFGS_overview.png" alt="drawing" width="600"/>
+
+High-order/Newton methods face significant challenges in current large-model training era, due to 
+their quadratic computation and memory complexities. 
+In this project, we aim to convey an effective quasi-Newton method, L-BFGS, to large-scale model training.
+To address convergence instability of L-BFGS in stochastic optimization, we introduce a momentum to the Hessian approximation.  
+[`Read More ... `](_posts/2022-07-29-mlbfgs.md)
+
+---
+
 [back](./)
