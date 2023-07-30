@@ -11,7 +11,7 @@ description: >
 # Build settings
 
 # Set this to a github repository to be used to host comments.
-github_comments_repository:  dc25/myBlog-comments
+github_comments_repository:  yuehniu/blog_comments
 
 theme: minima
 
