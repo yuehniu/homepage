@@ -74,6 +74,11 @@ layout: home
 --- `July 2023` ---
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
+I am chosen as a Viterbi Graduate Mentor to provide guidance to USC Viterbi new graduate students.
+
+<br>
+
+<img src="assets/fig/new.png" alt="drawing" width="40"/>
 Our paper, "mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization",
 is accepted to Transaction on Machine Learning Research (TMLR), 2023.
 
