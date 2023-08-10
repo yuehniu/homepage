@@ -46,3 +46,22 @@ where $D'$ can be any data with only record differs from $D$.
 \[ M(D) = f(D) + (n^1, \cdots, n^d ) \]
 
 is $(\epsilon)$-DP if $n^i$ are independent $Laplace(\Delta_1/\epsilon)$ random variables.
+
+We provide the proof below.
+
+### Proof
+
+To simplify notations, let $z\in R^d$ denote output from $M$.
+
+The probability density function of $z$ given $D$ and $D'$ are
+
+\[ P(M(D)=z) = P(n=z-f(D)) = \prod_{i=1}^d e^{(-\frac{\epsilon | f(D)^i -z^i|}{\Delta_1})} \]
+
+\[ P(M(D')=z) = P(n=z-f(D')) = \prod_{i=1}^d e^{(-\frac{\epsilon | f(D')^i -z^i|}{\Delta_1})} \]
+
+Taking the division, we have 
+
+\[ \frac{P(M(D)=z)}{P(M(D')=z)} = \prod_{i=1}^d e^{-\frac{\epsilon (| f(\mathcal{D})^i -z^i| -| f(D')^i -z^i|)}{\Delta_1}} \]
+
+Applying the triangle inequality, we have
+
