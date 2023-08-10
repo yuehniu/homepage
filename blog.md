@@ -14,4 +14,6 @@ layout: default
 
 - [Laplacisn mechanism](_posts/2023-08-10-Laplacian.md)
 
+- [Laplacisn mechanism](_posts/2023-08-10-Gaussian.md)
+
 [back](./)
