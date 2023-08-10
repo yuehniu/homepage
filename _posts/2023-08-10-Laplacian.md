@@ -67,13 +67,13 @@ Taking the division, we have
 
 Applying the triangle inequality, we have
 
-\[ \frac{P(M(D)=z)}{P(M(D')=z)} &\leq \prod_{i=1}^d e^{\frac{\epsilon (\| f(D)^i - f(D')^i\|)}{\Delta_1}} \]
+\[ \frac{P(M(D)=z)}{P(M(D')=z)} \leq \prod_{i=1}^d e^{\frac{\epsilon (\| f(D)^i - f(D')^i\|)}{\Delta_1}} \]
 
 \[ = e^{(\frac{\epsilon\sum_{i=1}^d \|f(D)^i - f(D')^i\| }{\Delta_1})} \] 
 
 \[ = e^{(\frac{\epsilon \|f(D) - f(D')\|_1 }{\Delta_1})} \]
 
-\[ = e^{\epsilon} \]
+\[ \leq e^{\epsilon} \]
 
 ### Remark
 
