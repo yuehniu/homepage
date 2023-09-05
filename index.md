@@ -112,7 +112,7 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 ## Academic Service
 
-**Peer Reviewer**: 
+**Conference Reviewer**: 
 
 `ICLR` --- 2022(2) --- 2021(2)
 
@@ -121,6 +121,12 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 `ICML` --- 2023(4)
 
 `KDD` --- 2023 (3)
+
+**Journal Reviewer**:
+
+`Transactions on Mobile Computing` --- 2023 (1)
+
+`Integration` --- 2023 (1)
 
 ---
 
