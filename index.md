@@ -92,8 +92,6 @@ I am chosen as a Viterbi Graduate Mentor to provide guidance to USC Viterbi new 
 Our paper, "mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization",
 is accepted to Transaction on Machine Learning Research (TMLR), 2023.
 
-<br>
-
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
 Our paper, "Performance and Failure Cause Estimation for Machine Learning Systems in the Wild", 
 is accepted to International Conference on Computer Vision Systems (ICVS), 2023
