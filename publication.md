@@ -14,6 +14,7 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <u>Revisiting Sparsity Hunting in Federated Learning: Why the Sparsity Consensus Matters?</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
 [`OpenReview`](https://openreview.net/forum?id=iHyhdpsnyi&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) ---
+[`Paper`]
 
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization</u>,  
@@ -21,9 +22,10 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 [`OpenReview`](https://openreview.net/forum?id=9jnsPp8DP3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) --- 
 [`PDF`](https://arxiv.org/abs/2307.13744)
 
-Xiruo Liu, **Yue Niu**, Furqan Khan and Prateek Singhal,  
+Xiruo Liu, Furqan Khan, **Yue Niu**, Pradeep Natarajan, Rinat Khaziev, Salman Avestimehr, Prateek Singhal,  
 <u>Performance and Failure Cause Estimation for Machine Learning Systems in the Wild</u>,  
 `Conference on Computer Vision Systems (ICVS)`, 2023
+[`Amazon Science`](https://www.amazon.science/publications/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild)
 
 **2022**
 
