@@ -2,7 +2,8 @@
 layout: home
 ---
 
-**PhD candidate** in Dept of ECE at **University of Southern California (USC)**.
+**PhD candidate** in Department of ECE 
+at **University of Southern California (USC)**.
 
 <img src="assets/fig/yellowstone.jpeg" alt="drawing" width="100"/>
 <img src="assets/fig/usc.png" alt="drawing" width="104"/>
