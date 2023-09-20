@@ -25,7 +25,7 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 Xiruo Liu, Furqan Khan, **Yue Niu**, Pradeep Natarajan, Rinat Khaziev, Salman Avestimehr, Prateek Singhal,  
 <u>Performance and Failure Cause Estimation for Machine Learning Systems in the Wild</u>,  
 `Conference on Computer Vision Systems (ICVS)`, 2023  
-[`Amazon Science`](https://www.amazon.science/publications/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild)  
+[`Amazon Science Report`](https://www.amazon.science/publications/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild)  
 (work done during internship at Amazon Alexa in 2022)
 
 **2022**
