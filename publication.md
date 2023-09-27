@@ -14,7 +14,8 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <u>Revisiting Sparsity Hunting in Federated Learning: Why the Sparsity Consensus Matters?</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
 [`OpenReview`](https://openreview.net/forum?id=iHyhdpsnyi&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) ---
-[`Paper`]()
+[`Paper`](https://openreview.net/pdf?id=iHyhdpsnyi) ---
+[`Code`](https://github.com/SaraBabakN/flash_fl)
 
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization</u>,  
