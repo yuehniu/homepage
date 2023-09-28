@@ -10,7 +10,7 @@ layout: page
 
 ---
 
-**Yue Niu***, Saurav Prakash*, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
+**Yue Niu**, Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
 <u>Overcoming Resource Constraints in Federated Learning: Large Models Can Be Trained with only Weak Clients</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
 [`OpenReview`](https://openreview.net/forum?id=lx1WnkL9fk)
