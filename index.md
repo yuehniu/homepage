@@ -76,6 +76,10 @@ at **University of Southern California (USC)**.
 --- `Sep 2023` ---
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
+Our paper, "Overcoming Resource Constraints in Federated Learning: Large Models Can Be Trained with only Weak Clients",
+is accepted to Transaction on Machine Learning Research (TMLR), 2023.
+
+<img src="assets/fig/new.png" alt="drawing" width="40"/>
 I am invited as a member of the Program Committee (PC) of the 2024 [SIAM International Conference on Data Mining](https://www.siam.org/conferences/cm/conference/sdm24) (SDM’24), 
 to be held in Houston, Texas, on April 18 to April 20, 2024.
 
