@@ -132,7 +132,7 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 `NeurIPS` --- 2023(6) --- 2022(4)
 
-`ICML` --- 2023(4)    `KDD` --- 2023 (3)    'SDM' --- 2024 (3)
+`ICML` --- 2023(4)    `KDD` --- 2023 (3)    `SDM` --- 2024 (3)
 
 **Journal Reviewer**:
 
