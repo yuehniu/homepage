@@ -126,17 +126,13 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 ## Academic Service
 
-**Program Committee Member**:
-
-`SDM` --- 2024
-
 **Conference Reviewer**: 
 
 `ICLR` --- 2022(2) --- 2021(2)
 
 `NeurIPS` --- 2023(6) --- 2022(4)
 
-`ICML` --- 2023(4)    `KDD` --- 2023 (3)
+`ICML` --- 2023(4)    `KDD` --- 2023 (3)    'SDM' --- 2024 (3)
 
 **Journal Reviewer**:
 
