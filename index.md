@@ -77,7 +77,7 @@ at **University of Southern California (USC)**.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
 Our paper, "Ethos: Rectifying Language Models in Orthogonal Parameter Space",
-is accepted as a spotlight presentation to AAAI Workshop on Responsible Language Models (ReLM), 2023.
+is accepted as a spotlight presentation to AAAI Workshop on Responsible Language Models, 2023.
 
 --- `Sep 2023` ---
 
