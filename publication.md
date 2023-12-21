@@ -10,7 +10,7 @@ layout: page
 
 ---
 
-Lei Gao*, **Yue Niu***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
+Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 `AAAI workshop on Responsible Language Model (ReLM)`, 2023 (**Spotlight**)
 
