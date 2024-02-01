@@ -73,6 +73,11 @@ at **University of Southern California (USC)**.
 
 ## News
 
+--- `Jan 2024` ---  
+<img src="assets/fig/new.png" alt="drawing" width="40"/>
+Our paper, "Edge Private Graph Neural Networks with Singular Value Perturbation",
+is accepted Privacy Enhancing Technologies Symposium (PETs), 2024.
+
 --- `Dec 2023` ---
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>

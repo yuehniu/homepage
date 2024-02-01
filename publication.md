@@ -6,6 +6,14 @@ layout: page
 
 <img src="assets/fig/publication.png" alt="drawing" width="100"/>
 
+**2024**
+
+---
+
+Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,  
+<u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
+`Privacy Enhancing Technologies Symposium (PETs)`, 2024.
+
 **2023**
 
 ---
