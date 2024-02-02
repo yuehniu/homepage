@@ -44,12 +44,15 @@ at **University of Southern California (USC)**.
   - **CNN/Transformer/LLM Acceleration**
 
     - Fast training and inference via low-rank models and low-rank activation
+    
     - Memory-efficient training and inference via low-rank and sparse compression
+    
     - Accelerate neural networks with dedicated hardware
 
   - **Federated Learning at the Edge**
   
     - Federated learning of large models at resource-constrained devices
+    
     - Communication-efficient federated learning with sparse training on clients
 
   - **Efficient High-Order Stochastic Optimization**
