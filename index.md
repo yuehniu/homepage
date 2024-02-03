@@ -6,7 +6,7 @@ layout: home
 
 at **University of Southern California (USC)**.
 
-<img src="assets/fig/yellowstone.jpeg" alt="drawing" width="100"/>
+<img src="assets/fig/selfi_MtBaldy.png" alt="drawing" width="100"/>
 <img src="assets/fig/usc.png" alt="drawing" width="104"/>
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
 
