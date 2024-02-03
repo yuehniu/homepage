@@ -14,13 +14,15 @@ Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
 `Privacy Enhancing Technologies Symposium (PETs)`, 2024.
 
+Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
+<u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
+`AAAI workshop on Responsible Language Model (ReLM)`, 2024 (**Spotlight**)  
+[`Workshop`](https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0) ---
+[`Paper`](https://drive.google.com/file/d/1hpPtmAx_9I29yyEysav-SfwBJMttT-Nw/view?usp=share_link)
+
 **2023**
 
 ---
-
-Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
-<u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
-`AAAI workshop on Responsible Language Model (ReLM)`, 2023 (**Spotlight**)
 
 **Yue Niu**, Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
 <u>Overcoming Resource Constraints in Federated Learning: Large Models Can Be Trained with only Weak Clients</u>,  
