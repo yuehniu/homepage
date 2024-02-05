@@ -13,7 +13,7 @@ at **University of Southern California (USC)**.
 [`Scholar`](https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en) ---
 [`Linkedin`](https://www.linkedin.com/in/yue-niu-a3084216a/) ---
 [`Github`](https://github.com/yuehniu) ---
-[`CV`](https://drive.google.com/file/d/1kSlH8tRNY-JdNR_AdII9WraQwunO0BwR/view?usp=sharing)
+[`CV`](https://drive.google.com/file/d/1A8p-eXkDOPgFesOa0Jxfo0mDKRPPibww/view?usp=sharing)
 
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
