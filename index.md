@@ -63,6 +63,11 @@ at **University of Southern California (USC)**.
 
 ## News
 
+--- `Feb 2024` ---  
+
+<img src="assets/fig/new.png" alt="drawing" width="40"/>
+I will be attending ITA 2024 and present our work, "All Rivers Run To The Sea: Private Learning with Asymmetric Flows".
+
 --- `Jan 2024` ---  
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
@@ -134,7 +139,7 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 `NeurIPS` --- 2023(6) --- 2022(4)
 
-`ICML` --- 2023(4)    `KDD` --- 2023 (3)    `SDM` --- 2024 (3)
+`ICML` --- 2024(6) --- 2023(4)    `KDD` --- 2023 (3)    `SDM` --- 2024 (3)
 
 **Journal Reviewer**:
 
