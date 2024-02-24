@@ -143,6 +143,8 @@ is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 **Journal Reviewer**:
 
+`IEEE Transactions on Network Science and Engineering` --- 2024 (1)
+
 `Transactions on Mobile Computing` --- 2023 (1)
 
 ---
