@@ -66,6 +66,10 @@ at **University of Southern California (USC)**.
 --- `Feb 2024` ---  
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
+Our paper, "All Rivers Run to the Sea: Private Learning with Asymmetric Flows",
+has been accepted to IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.  
+
+<img src="assets/fig/new.png" alt="drawing" width="40"/>
 I will be attending ITA 2024 and present our work, "All Rivers Run To The Sea: Private Learning with Asymmetric Flows".
 
 --- `Jan 2024` ---  
