@@ -10,6 +10,10 @@ layout: page
 
 ---
 
+Yue Niu, Ramy E. Ali, Saurav Prakash, Salman Avestimehr,  
+<u>All Rivers Run to the Sea: Private Learning with Asymmetric Flows</u>,  
+`IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)`, 2024.
+
 Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,  
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
 `Privacy Enhancing Technologies Symposium (PETs)`, 2024.
