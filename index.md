@@ -90,27 +90,8 @@ Our paper, "Overcoming Resource Constraints in Federated Learning: Large Models 
 is accepted to Transaction on Machine Learning Research (TMLR), 2023.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
-I am invited as a member of the Program Committee (PC) of the 2024 [SIAM International Conference on Data Mining](https://www.siam.org/conferences/cm/conference/sdm24) (SDM’24), 
-to be held in Houston, Texas, on April 18 to April 20, 2024.
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
 Our paper, "Revisiting Sparsity Hunting in Federated Learning: Why the Sparsity Consensus Matters?",
 is accepted to Transaction on Machine Learning Research (TMLR), 2023.
-
---- `August 2023` ---
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
-I am chosen as a Viterbi Graduate Mentor to provide guidance to USC Viterbi new graduate students.
-
---- `July 2023` ---
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
-Our paper, "mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization",
-is accepted to Transaction on Machine Learning Research (TMLR), 2023.
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
-Our paper, "Performance and Failure Cause Estimation for Machine Learning Systems in the Wild", 
-is accepted to International Conference on Computer Vision Systems (ICVS), 2023
 
 ---
 
