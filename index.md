@@ -23,11 +23,10 @@ at **University of Southern California (USC)**.
   on [FPGA/Parallel Computing Lab](https://fpga.usc.edu/). 
   Before that, He got master’s and bachelor’s degree from Northwestern Polytechnical University in Xi’an, China.
   
-  His research interests cover various aspects of `privacy in machine learning`, 
-  including applying information theory and differential privacy 
-  to enhance privacy protection in machine learning, federated learning, and 
-  combining with TEEs to boost privacy protection in practice.  
-  He also did research on `neural network acceleration` at the edge and `efficient machine learning optimization`.
+  His research interests cover various aspects of `efficient privacy-preserving machine learning` using information 
+  theory, differential privacy, federated learning, and distributed setting with private and public environments.  
+  He is also conducting research on `ML/LLM acceleration`, which reduce training and inference costs using 
+  quantization, pruning and low-rank compression.
 
 ---
   
