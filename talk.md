@@ -17,11 +17,21 @@ layout: page
 
 **2023**
 
+**Oct 27**:
+[USC ECE 13th Annual Research Festival Registration](https://minghsiehece.usc.edu/2022-electrical-and-computer-engineering-research-festival/)
+@ **USC, Los Angeles**  
+[`Poster`](https://docs.google.com/presentation/d/10BI5i7zcZcgMS0DgFvvalxtMlb3DoFXEy9P9S2FLh-Y/edit?usp=share_link)
+
 
 **May 24**:
 [Information-Theoretic Methods for Trustworthy Machine Learning](https://simons.berkeley.edu/workshops/asu-it-ml/schedule#simons-tabs)
 @ **Simons Institute, UC Berkeley**  
 [`Poster`](https://docs.google.com/presentation/d/1KppYUn7NZYr2lnXMbDIHdFW3yBnbz08e/edit?usp=share_link&ouid=109203633834170149669&rtpof=true&sd=true)
+
+**April 28**:
+[Second Annual Symposium of USC-Amazon Center](https://trustedai.usc.edu/second-annual-symposium)
+@ **USC, Los Angeles**  
+[`Poster`](https://docs.google.com/presentation/d/1iWEHa8XBSiTxwLIUIM4a2GJ8FCvnN4Jk/edit?usp=share_link&ouid=109203633834170149669&rtpof=true&sd=true)
 
 ---
 
