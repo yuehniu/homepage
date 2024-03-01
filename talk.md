@@ -8,7 +8,6 @@ layout: page
 
 **2024**
 
----
 **Feb 21-22**  
 
 2024 [Information Theory and Applications Workshop](https://ita.ucsd.edu/workshop/) @ **Bahia Resort, San Diego**  
@@ -19,7 +18,6 @@ layout: page
 
 **2023**
 
----
 
 **May 24**
 
@@ -31,7 +29,6 @@ layout: page
 
 **2022**
 
----
 
 **Dec 5**
 
