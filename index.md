@@ -100,7 +100,9 @@ is accepted to Transaction on Machine Learning Research (TMLR), 2023.
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
 `2022/6` --- `2022/9`  
 `Topic`: Estimate a CV model’s performance in the wild  
-`Collaborator`: Furqan Khan, Pradeep Natarajan, Ruoxi Liu
+`Collaborator`: Furqan Khan, Pradeep Natarajan, Ruoxi Liu  
+[`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-44137-0_31) --- 
+[`Media`](https://assets.amazon.science/1e/f2/d7bb807546598add1de82b627043/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild.pdf)
 
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
 `2021/6` --- `2021/9`  
