@@ -64,14 +64,15 @@ at **University of Southern California (USC)**.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
 **2024/2/26**: Our paper, "All Rivers Run to the Sea: Private Learning with Asymmetric Flows",
-has been accepted to IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.  
+has been accepted to <span style="color:blue">IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
-**2024/2/21**: I will be attending ITA 2024 and present our work, "All Rivers Run To The Sea: Private Learning with Asymmetric Flows".
+**2024/2/21**: I will be attending <span style="color:blue">ITA 2024, 2024</span> 
+and present our work, "All Rivers Run To The Sea: Private Learning with Asymmetric Flows".
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
 **2024/1/31**: Our paper, "Edge Private Graph Neural Networks with Singular Value Perturbation",
-is accepted Privacy Enhancing Technologies Symposium (PETs), 2024.
+is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium (PETs), 2024</span>.
 
 ---
 
