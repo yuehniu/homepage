@@ -62,36 +62,16 @@ at **University of Southern California (USC)**.
 
 ## News
 
---- `Feb 2024` ---  
-
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
 **2024/2/26**: Our paper, "All Rivers Run to the Sea: Private Learning with Asymmetric Flows",
 has been accepted to IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024.  
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
-I will be attending ITA 2024 and present our work, "All Rivers Run To The Sea: Private Learning with Asymmetric Flows".
-
---- `Jan 2024` ---  
+**2024/2/21**: I will be attending ITA 2024 and present our work, "All Rivers Run To The Sea: Private Learning with Asymmetric Flows".
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
-Our paper, "Edge Private Graph Neural Networks with Singular Value Perturbation",
+**2024/1/31**: Our paper, "Edge Private Graph Neural Networks with Singular Value Perturbation",
 is accepted Privacy Enhancing Technologies Symposium (PETs), 2024.
-
---- `Dec 2023` ---
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
-Our paper, "Ethos: Rectifying Language Models in Orthogonal Parameter Space",
-is accepted as a spotlight presentation to AAAI Workshop on Responsible Language Models, 2023.
-
---- `Sep 2023` ---
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
-Our paper, "Overcoming Resource Constraints in Federated Learning: Large Models Can Be Trained with only Weak Clients",
-is accepted to Transaction on Machine Learning Research (TMLR), 2023.
-
-<img src="assets/fig/new.png" alt="drawing" width="40"/>
-Our paper, "Revisiting Sparsity Hunting in Federated Learning: Why the Sparsity Consensus Matters?",
-is accepted to Transaction on Machine Learning Research (TMLR), 2023.
 
 ---
 
