@@ -23,9 +23,11 @@ at **University of Southern California (USC)**.
   on [FPGA/Parallel Computing Lab](https://fpga.usc.edu/). 
   Before that, He got master’s and bachelor’s degree from Northwestern Polytechnical University in Xi’an, China.
   
-  His research interests cover various aspects of `efficient privacy-preserving machine learning` using information 
+  His research interests cover various aspects of <span style="color:blue"> efficient privacy-preserving machine learning</span> 
+  using information 
   theory, differential privacy, federated learning, and distributed setting with private and public environments.  
-  He is also conducting research on `ML/LLM acceleration`, which reduce training and inference costs using 
+  He is also conducting research on <span style="color:blue"> deep learning and language model acceleration </span>, 
+  which reduce training and inference costs using 
   quantization, pruning and low-rank compression.
 
 ---
