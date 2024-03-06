@@ -10,6 +10,11 @@ layout: page
 
 ---
 
+**Yue Niu**, Saurav Prakash, Salman Avestimehr,  
+<u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
+`Preprint on arXiv`, 2024  
+[`Paper`](https://arxiv.org/abs/2403.02352)
+
 **Yue Niu**, Ramy E. Ali, Saurav Prakash, Salman Avestimehr,  
 <u>All Rivers Run to the Sea: Private Learning with Asymmetric Flows</u>,  
 `IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)`, 2024.  
