@@ -25,7 +25,7 @@ at **University of Southern California (USC)**.
   
   His research interests cover various aspects of <span style="color:blue"> efficient privacy-preserving machine learning</span> 
   using information 
-  theory, differential privacy, federated learning, and distributed setting with private and public environments.  
+  theory, differential privacy, federated learning, and distributed setting with private and public environments.
   He is also conducting research on <span style="color:blue"> deep learning and language model acceleration </span>, 
   which reduce training and inference costs using 
   quantization, pruning and low-rank compression.
