@@ -20,8 +20,8 @@ at **University of Southern California (USC)**.
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
   the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
   He also once worked with Professor [Viktor Prasanna](https://sites.usc.edu/prasanna/) 
-  on [FPGA/Parallel Computing Lab](https://fpga.usc.edu/). 
-  Before that, He got master’s and bachelor’s degree from Northwestern Polytechnical University in Xi’an, China.
+  in [FPGA/Parallel Computing Lab](https://fpga.usc.edu/). 
+  Before that, He got his master’s and bachelor’s degree from Northwestern Polytechnical University in Xi’an, China.
   
   His research interests cover various aspects of <span style="color:blue"> efficient privacy-preserving machine learning</span> 
   using information 
