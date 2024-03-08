@@ -11,4 +11,10 @@
   font-size: 16px;
   cursor: pointer;
   border-radius: 8px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #3e8e41;
+  color: white;
 }
