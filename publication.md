@@ -43,29 +43,34 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 **Yue Niu**, Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
 <u>Overcoming Resource Constraints in Federated Learning: Large Models Can Be Trained with only Weak Clients</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
-[`OpenReview`](https://openreview.net/forum?id=lx1WnkL9fk) ---
-[`Paper`](https://openreview.net/pdf?id=lx1WnkL9fk) ---
-[`Code`](https://github.com/yuehniu/modeldecomp-fl)
+
+<a href="https://openreview.net/forum?id=lx1WnkL9fk" class="btn">OpenReview</a>
+<a href="https://openreview.net/pdf?id=lx1WnkL9fk" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/modeldecomp-fl" class="btn">Code</a>
 
 Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,  
 <u>Revisiting Sparsity Hunting in Federated Learning: Why the Sparsity Consensus Matters?</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
-[`OpenReview`](https://openreview.net/forum?id=iHyhdpsnyi&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) ---
-[`Paper`](https://openreview.net/pdf?id=iHyhdpsnyi) ---
-[`Code`](https://github.com/SaraBabakN/flash_fl)
+
+<a href="https://openreview.net/forum?id=iHyhdpsnyi" class="btn">OpenReview</a>
+<a href="https://openreview.net/forum?id=iHyhdpsnyi" class="btn">Paper</a>
+<a href="https://github.com/SaraBabakN/flash_fl" class="btn">Code</a>
 
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>mL-BFGS: A Momentum-based L-BFGS for Distributed Large-scale Neural Network Optimization</u>,  
 `Transaction on Machine Learning Research (TMLR)`, 2023  
-[`OpenReview`](https://openreview.net/forum?id=9jnsPp8DP3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) --- 
-[`PDF`](https://arxiv.org/abs/2307.13744) ---
-[`Code`](https://github.com/yuehniu/mL-BFGS)
+
+<a href="https://openreview.net/forum?id=9jnsPp8DP3" class="btn">OpenReview</a>
+<a href="https://openreview.net/forum?id=9jnsPp8DP3" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/mL-BFGS" class="btn">Code</a>
 
 Xiruo Liu, Furqan Khan, **Yue Niu**, Pradeep Natarajan, Rinat Khaziev, Salman Avestimehr, Prateek Singhal,  
 <u>Performance and Failure Cause Estimation for Machine Learning Systems in the Wild</u>,  
 `Conference on Computer Vision Systems (ICVS)`, 2023  
-[`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-44137-0_31) --- 
-[`Amazon Science Report`](https://www.amazon.science/publications/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild)  
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-44137-0_31" class="btn">Paper</a>
+<a href="https://www.amazon.science/publications/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild" class="btn">Amazon Science Report</a>
+
 (work done during internship at Amazon Alexa in 2022)
 
 **2022**
@@ -75,21 +80,24 @@ Xiruo Liu, Furqan Khan, **Yue Niu**, Pradeep Natarajan, Rinat Khaziev, Salman Av
 **Yue Niu**, Ramy E. Ali, Salman Avestimehr,  
 <u> 3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs</u>,  
 `Privacy Enhancing Technologies Symposium (PETs)`, 2022  
-[`Paper`](https://petsymposium.org/popets/2022/popets-2022-0105.pdf) --- 
-[`Code`](https://github.com/yuehniu/asymmetricML) --- 
-[`Video`](https://www.youtube.com/watch?v=AlnCVAe-mHg&t=2s)
+
+<a href="https://petsymposium.org/popets/2022/popets-2022-0105.pdf" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/asymmetricML" class="btn">Code</a>
+<a href="https://www.youtube.com/watch?v=AlnCVAe-mHg&t=2s" class="btn">Video</a>
 
 **Yue Niu**,  Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
 <u> Federated Learning of Large Models at the Edge via Principal Sub-Model Training</u>,  
 `International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022  
-[`Paper`](https://arxiv.org/abs/2208.13141) ---
-[`Link`](https://federated-learning.org/fl-neurips-2022/)
+
+<a href="https://arxiv.org/abs/2208.13141" class="btn">Paper</a>
+<a href="https://federated-learning.org/fl-neurips-2022/" class="btn">Workshop</a>
 
 Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,  
 <u> Federated sparse training: Lottery aware model compression for resource-constrained edge</u>,  
 `International Workshop on Federated Learning in Conjunction with NeurIPS`, 2022  
-[`Paper`](https://arxiv.org/abs/2208.13092) ---
-[`Link`](https://federated-learning.org/fl-neurips-2022/)
+
+<a href="https://arxiv.org/abs/2208.13092" class="btn">Paper</a>
+<a href="https://federated-learning.org/fl-neurips-2022/" class="btn">Workshop</a>
 
 **2021**
 
@@ -98,14 +106,16 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 **Yue Niu**, Salman Avestimehr,  
 <u>AsymmetricML: An Asymmetric Decomposition Framework for Privacy-Preserving DNN Training and Inference </u>,  
 `ICLR Workshop on Distributed and Private Machine Learning`, 2021.  
-[`Paper`](https://petsymposium.org/popets/2022/popets-2022-0105.pdf) --- 
-[`Link`](https://dp-ml.github.io/2021-workshop-ICLR/)
+
+<a href="https://petsymposium.org/popets/2022/popets-2022-0105.pdf" class="btn">Paper</a>
+<a href="https://dp-ml.github.io/2021-workshop-ICLR/" class="btn">Workshop</a>
 
 **Yue Niu**, Zalan Fabian, Sunwoo Lee, Mahdi Soltanolkotabi, Salman Avestimehr,  
 <u>SLIM-QN: A Stochastic, Light, Momentumized Quasi-Newton Optimizer for Deep Networks</u>,  
 `ICML Workshop on the Optimization`, 2021  
-[`Paper`](https://arxiv.org/abs/2307.13744) --- 
-[`Link`](https://sites.google.com/view/optml-icml2021)
+
+<a href="https://arxiv.org/abs/2307.13744" class="btn">Paper</a>
+<a href="https://sites.google.com/view/optml-icml2021" class="btn">Workshop</a>
 
 **2020**
 
