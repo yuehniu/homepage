@@ -11,6 +11,7 @@ at **University of Southern California (USC)**.
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
 
 <a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate" class="btn">Scholar</a>
+<a href="https://www.linkedin.com/in/yue-niu-a3084216a" class="btn">Linkedin</a>
 [`Linkedin`](https://www.linkedin.com/in/yue-niu-a3084216a/) ---
 [`Github`](https://github.com/yuehniu) ---
 [`CV`](https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link)
