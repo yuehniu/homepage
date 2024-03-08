@@ -69,7 +69,7 @@ at **University of Southern California (USC)**.
 has been accepted to <span style="color:blue">IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
-**2024/2/21**: I will be attending <span style="color:blue">ITA 2024, 2024</span> 
+**2024/2/21**: I will be attending <span style="color:blue">ITA, 2024</span> 
 and present our work, <span style="color:blue"> All Rivers Run To The Sea: Private Learning with Asymmetric Flows </span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
