@@ -84,8 +84,8 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 `2022/6` --- `2022/9`  
 `Topic`: Estimate a CV model’s performance in the wild  
 `Collaborator`: Furqan Khan, Pradeep Natarajan, Ruoxi Liu  
-[`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-44137-0_31) --- 
-[`Media`](https://assets.amazon.science/1e/f2/d7bb807546598add1de82b627043/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild.pdf)
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-44137-0_31" class="btn">Paper</a>
+<a href="https://assets.amazon.science/1e/f2/d7bb807546598add1de82b627043/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild.pdf" class="btn">Media</a>
 
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
 `2021/6` --- `2021/9`  
@@ -96,7 +96,9 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 `2017/6` --- `2018/6`  
 `Topic`: Neural network acceleration on FPGA  
 `Collaborator`: Zhenyu Liu, Xiangyang Ji  
-[`Demo`](https://youtu.be/eFW8OTIur38) --- [`Paper`](https://ieeexplore.ieee.org/abstract/document/8309067)
+<a href="https://youtu.be/eFW8OTIur38" class="btn">Demo</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8309067" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/embeddedCNN" class="btn">Code</a>
 
 ---
 
