@@ -8,8 +8,6 @@ layout: page
 
 **2024**
 
----
-
 **Yue Niu**, Saurav Prakash, Salman Avestimehr,  
 <u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
 <span style="color:blue">Preprint on arXiv</span>, 2024  
@@ -26,7 +24,6 @@ Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
 <span style="color:blue">Privacy Enhancing Technologies Symposium (PETs)</span>, 2024.
 
-<a href="https://github.com/TinaTangTingting/Eclipse" class="btn">Paper</a>
 <a href="https://github.com/TinaTangTingting/Eclipse" class="btn">Code</a>
 
 Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
@@ -36,9 +33,9 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
 <a href="https://drive.google.com/file/d/1hpPtmAx_9I29yyEysav-SfwBJMttT-Nw/view?usp=share_link" class="btn">Paper</a>
 
-**2023**
-
 ---
+
+**2023**
 
 **Yue Niu**, Saurav Prakash, Souvik Kundu, Sunwoo Lee, Salman Avestimehr,  
 <u>Overcoming Resource Constraints in Federated Learning: Large Models Can Be Trained with only Weak Clients</u>,  
@@ -73,9 +70,9 @@ Xiruo Liu, Furqan Khan, **Yue Niu**, Pradeep Natarajan, Rinat Khaziev, Salman Av
 
 (work done during internship at Amazon Alexa in 2022)
 
-**2022**
-
 ---
+
+**2022**
 
 **Yue Niu**, Ramy E. Ali, Salman Avestimehr,  
 <u> 3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs</u>,  
@@ -99,9 +96,9 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <a href="https://arxiv.org/abs/2208.13092" class="btn">Paper</a>
 <a href="https://federated-learning.org/fl-neurips-2022/" class="btn">Workshop</a>
 
-**2021**
-
 ---
+
+**2021**
 
 **Yue Niu**, Salman Avestimehr,  
 <u>AsymmetricML: An Asymmetric Decomposition Framework for Privacy-Preserving DNN Training and Inference </u>,  
@@ -117,9 +114,9 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <a href="https://arxiv.org/abs/2307.13744" class="btn">Paper</a>
 <a href="https://sites.google.com/view/optml-icml2021" class="btn">Workshop</a>
 
-**2020**
-
 ---
+
+**2020**
 
 **Yue Niu**, Rajgopal Kannan, Ajitesh Srivastava, Viktor Prasanna,  
 <u>Reuse Kernels or Activations? A Flexible Dataflow for Low-latency Spectral CNN Acceleration</u>,  
@@ -129,9 +126,9 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <u>SPEC2: SPECtral SParsE CNN Accelerator on FPGAs</u>,  
 <span style="color:blue">IEEE International Conference on High Performance Computing (HiPC)</span> (**Oral**), 2020.
 
-**Before 2020**
-
 ---
+
+**Before 2020**
 
 Wei Zhou, **Yue Niu**, Guanwen Zhang,  
 <u>Sensitivity-oriented layer-wise acceleration and compression for convolutional neural network</u>,  
@@ -148,5 +145,7 @@ Chunsheng Mei, Zhenyu Liu, **Yue Niu**, Xiangyang Ji, Wei Zhou, Dongsheng Wang,
 **Yue Niu**, Wei Zhou, Xiaocong Lian, Xin Zhou, Jiamin Yang,  
 <u>A Stepped-RAM Reading and Multiplierless VLSI Architecture for Intra Prediction in HEVC</u>,  
 <span style="color:blue">The Pacific-Rim Conference on Multimedia (PCM)</span>, 2016
+
+---
 
 [back](./)
