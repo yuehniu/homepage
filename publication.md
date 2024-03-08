@@ -13,22 +13,28 @@ layout: page
 **Yue Niu**, Saurav Prakash, Salman Avestimehr,  
 <u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
 `Preprint on arXiv`, 2024  
-[`Paper`](https://arxiv.org/abs/2403.02352)
+
+<a href="https://arxiv.org/abs/2403.02352" class="btn">Paper</a>
 
 **Yue Niu**, Ramy E. Ali, Saurav Prakash, Salman Avestimehr,  
 <u>All Rivers Run to the Sea: Private Learning with Asymmetric Flows</u>,  
 `IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)`, 2024.  
-[`Paper`](https://arxiv.org/pdf/2312.05264.pdf)
+
+<a href="https://arxiv.org/pdf/2312.05264.pdf" class="btn">Paper</a>
 
 Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,  
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
 `Privacy Enhancing Technologies Symposium (PETs)`, 2024.
 
+<a href="https://github.com/TinaTangTingting/Eclipse" class="btn">Paper</a>
+<a href="https://github.com/TinaTangTingting/Eclipse" class="btn">Code</a>
+
 Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 `AAAI workshop on Responsible Language Model (ReLM)`, 2024 (**Spotlight**)  
-[`Workshop`](https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0) ---
-[`Paper`](https://drive.google.com/file/d/1hpPtmAx_9I29yyEysav-SfwBJMttT-Nw/view?usp=share_link)
+
+<a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
+<a href="https://drive.google.com/file/d/1hpPtmAx_9I29yyEysav-SfwBJMttT-Nw/view?usp=share_link" class="btn">Paper</a>
 
 **2023**
 
