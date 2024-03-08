@@ -104,17 +104,25 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 **Conference Reviewer**: 
 
-`ICLR` --- 2022(2) --- 2021(2)
+<span style="color:blue">ICLR</span> --- 2022(2) --- 2021(2)
 
-`NeurIPS` --- 2023(6) --- 2022(4)
+<span style="color:blue">NeurIPS</span> --- 2023(6) --- 2022(4)
 
-`ICML` --- 2024(6) --- 2023(4)    `KDD` --- 2023 (3)    `SDM` --- 2024 (3)
+<span style="color:blue">ICML</span> --- 2024(6) --- 2023(4)    
+
+<span style="color:blue">KDD</span> --- 2023 (3)    
+
+<span style="color:blue">SDM</span> --- 2024 (3)
 
 **Journal Reviewer**:
 
-`IEEE Transactions on Network Science and Engineering` --- 2024 (1)
+<span style="color:blue">IEEE Transactions on Network Science and Engineering</span> --- 2024 (1)
 
-`Transactions on Mobile Computing` --- 2023 (1)
+<span style="color:blue">Transactions on Mobile Computing</span> --- 2023 (1)
+
+**Teaching**:
+
+<span style="color:blue">Introduction to Digital Circuits</span> --- Spring 2020 --- Fall 2019
 
 ---
 
