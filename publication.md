@@ -122,9 +122,15 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <u>Reuse Kernels or Activations? A Flexible Dataflow for Low-latency Spectral CNN Acceleration</u>,  
 <span style="color:blue">ACM/SIGDA International Conference on Field-Programmable Gate Arrays (FPGA)</span>, (**Oral**), 2020
 
+<a href="https://dl.acm.org/doi/pdf/10.1145/3373087.3375302" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/CNN.frequencyFPGA" class="btn">Code</a>
+
 **Yue Niu**, Hanqing Zeng, Ajitesh Srivastava, Kartik Lakhotia, Rajgopal Kannan, Yanzhi Wang, Viktor Prasanna,  
 <u>SPEC2: SPECtral SParsE CNN Accelerator on FPGAs</u>,  
 <span style="color:blue">IEEE International Conference on High Performance Computing (HiPC)</span> (**Oral**), 2020.
+
+<a href="https://ieeexplore.ieee.org/abstract/document/8990436" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/CNN.frequencyFPGA" class="btn">Code</a>
 
 ---
 
