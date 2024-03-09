@@ -6,6 +6,8 @@ layout: home
 
 at **University of Southern California (USC)**.
 
+Email: yueniu at usc.edu
+
 <img src="assets/fig/selfi_MtBaldy.png" alt="drawing" height="104"/>
 <img src="assets/fig/usc.png" alt="drawing" width="104"/>
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
