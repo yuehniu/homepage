@@ -87,6 +87,7 @@ Xiruo Liu, Furqan Khan, **Yue Niu**, Pradeep Natarajan, Rinat Khaziev, Salman Av
 <span style="color:blue">International Workshop on Federated Learning in Conjunction with NeurIPS</span>, 2022  
 
 <a href="https://arxiv.org/abs/2208.13141" class="btn">Paper</a>
+<a href="https://github.com/yuehniu/modeldecomp-fl" class="btn">Code</a>
 <a href="https://federated-learning.org/fl-neurips-2022/" class="btn">Workshop</a>
 
 Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,  
@@ -94,6 +95,7 @@ Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <span style="color:blue">International Workshop on Federated Learning in Conjunction with NeurIPS</span>, 2022  
 
 <a href="https://arxiv.org/abs/2208.13092" class="btn">Paper</a>
+<a href="https://github.com/SaraBabakN/flash_fl" class="btn">Code</a>
 <a href="https://federated-learning.org/fl-neurips-2022/" class="btn">Workshop</a>
 
 ---
