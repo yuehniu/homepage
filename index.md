@@ -15,6 +15,9 @@ email: yueniu [at] usc.edu
 <a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate" class="btn">
     Scholar
 </a>
+<a href="https://www.researchgate.net/profile/Yue-Niu-30" class="btn">
+    ResearchGate
+</a>
 <a href="https://www.linkedin.com/in/yue-niu-a3084216a" class="btn">
     LinkedIn
 </a>
