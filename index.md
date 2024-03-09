@@ -6,12 +6,26 @@ layout: home
 
 at **University of Southern California (USC)**.
 
-Email: yueniu at usc.edu
+email: yueniu [at] usc.edu
 
 <img src="assets/fig/selfi_MtBaldy.png" alt="drawing" height="104"/>
 <img src="assets/fig/usc.png" alt="drawing" width="104"/>
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
 
+<a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate" class="btn">
+    Scholar
+</a>
+<a href="https://www.linkedin.com/in/yue-niu-a3084216a" class="btn">
+    LinkedIn
+</a>
+<a href="https://github.com/yuehniu" class="btn">
+    Github
+</a>
+<a href="https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link" class="btn">
+    Resume
+</a>
+
+<!---
 <a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate">
     <img src="assets/icon/scholar.png" height="50" />
 </a> &emsp;
@@ -24,6 +38,7 @@ Email: yueniu at usc.edu
 <a href="https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link">
     <img src="assets/icon/cv.jpeg" height="50" />
 </a>
+-->
 
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
