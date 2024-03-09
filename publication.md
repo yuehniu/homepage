@@ -30,8 +30,8 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 <span style="color:blue">AAAI workshop on Responsible Language Model (ReLM)</span>, 2024 (**Spotlight**)  
 
-<a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
 <a href="https://drive.google.com/file/d/1hpPtmAx_9I29yyEysav-SfwBJMttT-Nw/view?usp=share_link" class="btn">Paper</a>
+<a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
 
 ---
 
