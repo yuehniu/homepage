@@ -13,16 +13,16 @@ Email: yueniu at usc.edu
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
 
 <a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate">
-    <img src="assets/icon/scholar.png" width="50" />
+    <img src="assets/icon/scholar.png" height="50" />
 </a>
 <a href="https://www.linkedin.com/in/yue-niu-a3084216a">
-    <img src="assets/icon/linkedin.png" width="50" />
+    <img src="assets/icon/linkedin.png" height="50" />
 </a>
 <a href="https://github.com/yuehniu">
-    <img src="assets/icon/github.png" width="50" />
+    <img src="assets/icon/github.png" height="50" />
 </a>
 <a href="https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link">
-    <img src="assets/icon/cv.jpeg" width="50" />
+    <img src="assets/icon/cv.jpeg" height="50" />
 </a>
 
 ## Bio  
