@@ -2,8 +2,7 @@
 layout: home
 ---
 
-**PhD candidate** in Department of ECE 
-
+**PhD candidate** in Department of ECE
 at **University of Southern California (USC)**.
 
 email: yueniu [at] usc.edu
