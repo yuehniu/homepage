@@ -49,7 +49,7 @@ layout: home
   which reduce training and inference costs using 
   quantization, pruning and low-rank compression.
 
-  email: yueniu [at] usc.edu
+  <span style="color:blue">email</span>: yueniu [at] usc.edu
 
 ---
   
