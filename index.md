@@ -2,11 +2,6 @@
 layout: home
 ---
 
-**PhD candidate** in Department of ECE
-at **University of Southern California (USC)**.
-
-email: yueniu [at] usc.edu
-
 <img src="assets/fig/selfi_MtBaldy.png" alt="drawing" height="104"/>
 <img src="assets/fig/usc.png" alt="drawing" width="104"/>
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
@@ -53,6 +48,8 @@ email: yueniu [at] usc.edu
   He is also conducting research on <span style="color:blue"> deep learning and language model acceleration </span>, 
   which reduce training and inference costs using 
   quantization, pruning and low-rank compression.
+
+  email: yueniu [at] usc.edu
 
 ---
   
