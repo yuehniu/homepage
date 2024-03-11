@@ -15,13 +15,11 @@ layout: home
 <a href="https://github.com/yuehniu" class="btn">
     Github
 </a>
-<embed src="https://yuehniu.github.io/ResumeYueNiu.pdf" class="btn" target="_blank"
-/>
-
-<!---
 <a href="https://yuehniu.github.io/ResumeYueNiu.pdf" class="btn" target="_blank">
     Resume
 </a>
+
+<!---
 
 <a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate">
     <img src="assets/icon/scholar.png" height="50" />
