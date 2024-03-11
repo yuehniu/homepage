@@ -15,7 +15,7 @@ layout: home
 <a href="https://github.com/yuehniu" class="btn">
     Github
 </a>
-<a href="https://yuehniu.github.io/ResumeYueNiu.pdf" class="btn">
+<a href="https://yuehniu.github.io/ResumeYueNiu.pdf" class="btn" target="_blank">
     Resume
 </a>
 
