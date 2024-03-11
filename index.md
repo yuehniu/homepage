@@ -15,7 +15,7 @@ layout: home
 <a href="https://github.com/yuehniu" class="btn">
     Github
 </a>
-<a href="_posts/ResumeYueNiu.pdf" class="btn">
+<a href="https://yuehniu.github.io/_posts/ResumeYueNiu.pdf" class="btn">
     Resume
 </a>
 
@@ -147,7 +147,7 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 **Teaching**:
 
-<span style="color:blue">Introduction to Digital Circuits</span> --- Spring 2020 --- Fall 2019
+<span style="color:blue">TA for Introduction to Digital Circuits</span> --- Spring 2020 --- Fall 2019
 
 ---
 
