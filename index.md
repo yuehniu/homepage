@@ -15,7 +15,7 @@ layout: home
 <a href="https://github.com/yuehniu" class="btn">
     Github
 </a>
-<a href="https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link" class="btn">
+<a href="_posts/ResumeYueNiu.pdf" class="btn">
     Resume
 </a>
 
