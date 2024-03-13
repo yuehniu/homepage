@@ -35,6 +35,7 @@ layout: home
 </a>
 -->
 
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -78,6 +79,7 @@ layout: home
     <p>Some text..</p>
   </div>
 </div>
+</body>
 
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
