@@ -70,11 +70,11 @@ layout: home
 <h2>Two Unequal Columns</h2>
 
 <div class="row">
-  <div class="column left";">
+  <div class="column left">
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div class="column right";">
+  <div class="column right">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
