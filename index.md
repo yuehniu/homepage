@@ -33,54 +33,6 @@ layout: home
 <a href="https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link">
     <img src="assets/icon/cv.jpeg" height="50" />
 </a>
-
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<h2>Two Unequal Columns</h2>
-
-<div class="row">
-  <div class="column left">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column right">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-</body>
-
 -->
 
 ## Bio  
@@ -133,6 +85,10 @@ layout: home
 ---
 
 ## News
+
+<img src="assets/fig/new.png" alt="drawing" width="40"/>
+**2024/3/13**: Our paper, <span style="color:blue">Ethos: Rectifying Language Models in Orthogonal Parameter Space </span>,
+has been accepted to <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="40"/>
 **2024/2/26**: Our paper, <span style="color:blue">All Rivers Run to the Sea: Private Learning with Asymmetric Flows </span>,

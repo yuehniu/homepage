@@ -8,6 +8,10 @@ layout: page
 
 **2024**
 
+Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
+<u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
+<span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL)</span>, 2024
+
 **Yue Niu**, Saurav Prakash, Salman Avestimehr,  
 <u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
 <span style="color:blue">Preprint on arXiv</span>, 2024  
