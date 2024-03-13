@@ -33,7 +33,7 @@ layout: home
 <a href="https://drive.google.com/file/d/1XTzdmqfl43eJ52Pp2tGmOzvG3lF3j9Xs/view?usp=share_link">
     <img src="assets/icon/cv.jpeg" height="50" />
 </a>
--->
+
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -80,6 +80,8 @@ layout: home
   </div>
 </div>
 </body>
+
+-->
 
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
