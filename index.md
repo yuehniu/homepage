@@ -35,16 +35,6 @@ layout: home
 </a>
 -->
 
-<div class="page-content">
-      <div class="wrapperLarge">
-        Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC) working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
-        the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
-        He also once worked with Professor [Viktor Prasanna](https://sites.usc.edu/prasanna/) 
-        in [FPGA/Parallel Computing Lab](https://fpga.usc.edu/). 
-        Before that, He got his master’s and bachelor’s degree from Northwestern Polytechnical University in Xi’an, China.
-      </div>
-</div>
-
 ## Bio  
   Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
   working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
