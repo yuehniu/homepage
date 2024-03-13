@@ -8,7 +8,7 @@ layout: page
 
 **2024**
 
-Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
+Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,   
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL)</span>, 2024
 
