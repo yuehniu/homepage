@@ -1,12 +1,12 @@
 title: Yue (Julien) Niu's Homepage
 author:
   name: Yue (Julien) Niu
-  email: yueniu@usc.edu
+  # email: yueniu@usc.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  PhD candicate at ECE USC.
+  Yue (Julien) Niu's Homepage
 
 # Build settings
 
@@ -34,16 +34,16 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/yuehniu" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/julien.niu/" }
+  #  - { platform: github,         user_url: "https://github.com/yuehniu" }
+  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=J7vQ-QEAAAAJ&hl=en" }
+  #  - { platform: instagram,      user_url: "https://www.instagram.com/julien.niu/" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yue-niu-a3084216a/" }
+  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/yue-niu-a3084216a/" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    - { platform: twitter,        user_url: "https://twitter.com/YuehNiu" }
+  #  - { platform: twitter,        user_url: "https://twitter.com/YuehNiu" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
