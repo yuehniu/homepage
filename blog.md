@@ -8,12 +8,14 @@ layout: default
 
 ---
 
-### A series of blog on differential privacy
+### Differential Privacy
 
 - [Basic DP concepts](_posts/2023-08-10-DP1.md)
 
 - [Laplacisn mechanism](_posts/2023-08-10-Laplacian.md)
 
-- [Laplacisn mechanism](_posts/2023-08-10-Gaussian.md)
+- [Gaussian mechanism](_posts/2023-08-10-Gaussian.md)
+
+### Computer Vision
 
 [back](./)
