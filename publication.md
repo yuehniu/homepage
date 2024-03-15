@@ -12,6 +12,8 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL)</span>, 2024
 
+<a href="https://arxiv.org/abs/2403.08994" class="btn">Paper</a>
+
 **Yue Niu**, Saurav Prakash, Salman Avestimehr,  
 <u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
 <span style="color:blue">Preprint on arXiv</span>, 2024  
@@ -34,7 +36,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 <span style="color:blue">AAAI workshop on Responsible Language Model (ReLM)</span>, 2024 (**Spotlight**)  
 
-<a href="https://drive.google.com/file/d/1hpPtmAx_9I29yyEysav-SfwBJMttT-Nw/view?usp=share_link" class="btn">Paper</a>
+<a href="https://arxiv.org/abs/2403.08994" class="btn">Paper</a>
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
 
 ---
