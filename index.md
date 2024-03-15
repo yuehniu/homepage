@@ -57,7 +57,7 @@ layout: home
 
 ---
   
-## Research Highlight
+## Research Focus
 
   - **Efficient Private Machine Learning**
 
@@ -80,10 +80,6 @@ layout: home
     - Federated learning of large models at resource-constrained devices
     
     - Communication-efficient federated learning with sparse training on clients
-
-  - **Efficient High-Order Stochastic Optimization**
-    
-    - Distributed large-scale model training with quasi-Newton optimization
 
 ---
 
