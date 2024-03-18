@@ -30,6 +30,9 @@ Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
 <span style="color:blue">Privacy Enhancing Technologies Symposium (PETs)</span>, 2024.
 
+<a href="https://yuehniu.github.io/homepage/docs/PETS_2024_Eclipse.pdf" class="btn" target="_blank">
+    Paper
+</a>
 <a href="https://github.com/TinaTangTingting/Eclipse" class="btn">Code</a>
 
 Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,  
