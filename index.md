@@ -106,7 +106,7 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 ## Experience
 
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
-<span style="color:blue">2022/6 - 2022/9</span>  
+2022/6 - 2022/9  
 <span style="color:blue">Topic</span>: Estimate a CV model’s performance in the wild  
 <span style="color:blue">Collaborator</span>: Furqan Khan, Pradeep Natarajan, Ruoxi Liu
 
@@ -114,12 +114,12 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 <a href="https://assets.amazon.science/1e/f2/d7bb807546598add1de82b627043/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild.pdf" class="btn">Media</a>
 
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
-<span style="color:blue">2021/6 - 2021/9</span>   
+2021/6 - 2021/9   
 <span style="color:blue">Topic</span>: Personalized model compression using knowledge distillation  
 <span style="color:blue">Collaborator</span>: Furqan Khan, Pradeep Natarajan, Salman Avestimehr
 
 **Research Intern** at *Tsinghua University* <img src="assets/fig/tsinghua.png" alt="drawing" width="40"/>
-<span style="color:blue">2017/6 - 2018/6</span>  
+2017/6 - 2018/6  
 <span style="color:blue">Topic</span>: Neural network acceleration on FPGA  
 <span style="color:blue">Collaborator</span>: Zhenyu Liu, Xiangyang Ji
 
