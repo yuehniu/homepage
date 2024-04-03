@@ -15,7 +15,10 @@ Collaborated with
 
 <img src="assets/fig/asymml/overview.png" alt="drawing" width="600"/>
 
-Exploring low-rank structure of **data** in machine learning is very important. 
+In this project, we explore a new privacy-preserving learning and inference framework: private learning with asymmetric
+data flows. 
+We show that exploring low-rank structure of **data** in machine learning is very important in terms of complexity 
+reduction and privacy protection. 
 Along this line of research, we leverage low-rank structure of data and propose asymmetric learning framework that
 achieves privacy-preserving model learning and inference.  
 [`Read More ... `](_posts/2022-07-29-asymml.md)
