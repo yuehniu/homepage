@@ -21,7 +21,7 @@ We show that exploring low-rank structure of **data** in machine learning is ver
 reduction and privacy protection. 
 Along this line of research, we leverage low-rank structure of data and propose asymmetric learning framework that
 achieves privacy-preserving model learning and inference.  
-[`Read More ... `](_posts/2022-07-29-asymml.md)
+[`Read More ... `](_posts/2024-04-03-asymml.md)
 
 ---
 

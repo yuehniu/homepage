@@ -25,7 +25,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,
 <span style="color:blue">IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</span>, 2024.  
 
 <a href="https://arxiv.org/pdf/2312.05264.pdf" class="btn">Paper</a>
-<a href="https://yuehniu.github.io/homepage/research/2022/07/29/asymml.html" class="btn">Project Page</a>
+<a href="https://yuehniu.github.io/homepage/research/2024/04/03/asymml.html" class="btn">Project Page</a>
 
 Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,  
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
