@@ -22,14 +22,14 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,
 
 **Yue Niu**, Ramy E. Ali, Saurav Prakash, Salman Avestimehr,  
 <u>All Rivers Run to the Sea: Private Learning with Asymmetric Flows</u>,  
-<span style="color:blue">IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</span>, 2024.  
+<span style="color:blue">IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</span>, 2024 (acceptance rate: 23.6%).  
 
 <a href="https://arxiv.org/pdf/2312.05264.pdf" class="btn">Paper</a>
 <a href="https://yuehniu.github.io/homepage/research/2024/04/03/asymml.html" class="btn">Project Page</a>
 
 Tingting Tang\*, **Yue Niu\***, Salman Avestimehr, Murali Annavaram,  
 <u>Edge Private Graph Neural Networks with Singular Value Perturbation</u>,  
-<span style="color:blue">Privacy Enhancing Technologies Symposium (PETs)</span>, 2024.
+<span style="color:blue">Privacy Enhancing Technologies Symposium (PETs)</span>, 2024 (acceptance rate: 22%).
 
 <a href="https://arxiv.org/abs/2403.10995" class="btn" target="_blank">
     Paper
