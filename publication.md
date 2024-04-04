@@ -54,6 +54,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 <a href="https://openreview.net/pdf?id=lx1WnkL9fk" class="btn">Paper</a>
 <a href="https://github.com/yuehniu/modeldecomp-fl" class="btn">Code</a>
 <a href="https://openreview.net/forum?id=lx1WnkL9fk" class="btn">OpenReview</a>
+<a href="https://yuehniu.github.io/homepage/research/2023/07/29/prism.html" class="btn">Project Page</a>
 
 Sara Babakniya, Souvik Kundu, Saurav Prakash, **Yue Niu**, Salman Avestimehr,  
 <u>Revisiting Sparsity Hunting in Federated Learning: Why the Sparsity Consensus Matters?</u>,  
