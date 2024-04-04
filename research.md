@@ -38,7 +38,7 @@ Federated learning of large neural nets at the edge faces significant challenges
 the limited computation and memory on-device resources. 
 **Sub-model** training methodology presents a promising solution.
 We investigate a new sub-model training method that reduces computations at the edge while still attaining a full model.  
-[`Read More ... `](_posts/2022-07-29-prism.md)
+[`Read More ... `](_posts/2023-07-29-prism.md)
 
 ---
 
