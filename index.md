@@ -111,7 +111,7 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 <span style="color:blue">Collaborator</span>: Furqan Khan, Pradeep Natarajan, Ruoxi Liu
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-44137-0_31" class="btn">Paper</a>
-<a href="https://assets.amazon.science/1e/f2/d7bb807546598add1de82b627043/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild.pdf" class="btn">Media</a>
+<a href="https://www.amazon.science/publications/performance-and-failure-cause-estimation-for-machine-learning-systems-in-the-wild" class="btn">Amazon Science Report</a>
 
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
 2021/6 - 2021/9   
