@@ -13,6 +13,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,
 <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL)</span>, 2024
 
 <a href="https://arxiv.org/abs/2403.08994" class="btn">Paper</a>
+<a href="https://github.com/leigao97/ethos" class="btn">Code</a>
 
 **Yue Niu**, Saurav Prakash, Salman Avestimehr,  
 <u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
@@ -41,6 +42,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 <span style="color:blue">AAAI workshop on Responsible Language Model (ReLM)</span>, 2024 (**Spotlight**)  
 
 <a href="https://arxiv.org/abs/2403.08994" class="btn">Paper</a>
+<a href="https://github.com/leigao97/ethos" class="btn">Code</a>
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
 
 ---
