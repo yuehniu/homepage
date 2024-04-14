@@ -13,6 +13,8 @@ layout: page
 
 <a href="https://yuehniu.github.io/homepage/docs/Samsung_Presentation_YueNiu.pdf" class="btn">Slides</a>
 
+<div class="vl"></div>
+
 **Title**: Private Learning with Asymmetric Flows    
 **Feb 21-22**:
 2024 [Information Theory and Applications Workshop](https://ita.ucsd.edu/workshop/)
