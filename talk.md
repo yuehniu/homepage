@@ -13,7 +13,7 @@ Samsung, San Diego @ **Virtual**, April 11, 2024
 
 <div class="vl"></div>
 
-**Title**: Private Learning with Asymmetric Flows
+**Title**: Private Learning with Asymmetric Flows  
 [Information Theory and Applications Workshop](https://ita.ucsd.edu/workshop/)
 @ **Bahia Resort, San Diego**, Feb 22, 2024
 
@@ -50,6 +50,7 @@ Samsung, San Diego @ **Virtual**, April 11, 2024
 
 <div class="vl"></div>
 
+**Title**: 3LegRace: Privacy-Preserving DNN Training over TEEs and GPUs  
 22nd Privacy Enhancing Technologies Symposium (PETS 2022)
 @ **Sydney, Australia**, July 11-15, 2022
 
