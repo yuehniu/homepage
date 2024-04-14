@@ -8,6 +8,12 @@ layout: page
 
 **2024**
 
+**April 11**:
+Samsung, San Diego
+@ **Virtual**  
+
+<a href="https://yuehniu.github.io/homepage/docs/Samsung_Presentation_YueNiu.pdf" class="btn">Slides</a>
+
 **Feb 21-22**:
 2024 [Information Theory and Applications Workshop](https://ita.ucsd.edu/workshop/)  
 @ **Bahia Resort, San Diego**  
