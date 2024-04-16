@@ -8,6 +8,12 @@ layout: page
 
 ---
 
+### LLM Alignment with Model Editing
+
+<img src="assets/fig/ethos/ethos.png" alt="drawing" width="400" style='border:1px solid #000000' />
+In this project, we aim to align and rectify language model, and reduce potential bias,
+toxic information, privacy leakage. 
+
 ### Asymmetric Learning for Privacy-Preserving ML  
 Collaborated with 
 [Ramy E. Ali](https://scholar.google.com/citations?user=FLJ86DwAAAAJ&hl=en),
