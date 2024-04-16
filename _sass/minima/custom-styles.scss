@@ -23,3 +23,14 @@
   border-left: 2px solid green;
   height: 30px;
 }
+
+.halfcolumn {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

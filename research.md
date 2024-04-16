@@ -9,10 +9,34 @@ layout: page
 ---
 
 ### LLM Alignment with Model Editing
+Collaborated with 
+Lei Gao,
+Tingting Tang,
+[Salman Avestimehr](https://scholar.google.com/citations?user=Qhe5ua0AAAAJ&hl=en),
+Murali Annavaram
 
+
+<div class="row">
+<div class="halfcolumn" style="background-color:#ffffff;">
+
+<p>
 <img src="assets/fig/ethos/ethos.png" alt="drawing" width="400" style='border:1px solid #000000' />
-In this project, we aim to align and rectify language model, and reduce potential bias,
-toxic information, privacy leakage. 
+</p>
+
+</div>
+
+<div class="halfcolumn" style="background-color:#ffffff;">
+
+<p>
+In this project, we aim to align and rectify language model, 
+and reduce potential bias,toxic information, privacy leakage.
+</p>
+
+</div>
+
+</div>
+
+---
 
 ### Asymmetric Learning for Privacy-Preserving ML  
 Collaborated with 
