@@ -11,6 +11,7 @@ layout: page
 ### Asymmetric Learning for Privacy-Preserving ML  
 Collaborated with 
 [Ramy E. Ali](https://scholar.google.com/citations?user=FLJ86DwAAAAJ&hl=en),
+[Saurav Prakash](https://sauravpr.com),
 [Salman Avestimehr](https://scholar.google.com/citations?user=Qhe5ua0AAAAJ&hl=en)
 
 <img src="assets/fig/asymml/overview.png" alt="drawing" width="600"/>
