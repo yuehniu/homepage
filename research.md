@@ -16,25 +16,15 @@ Tingting Tang,
 Murali Annavaram
 
 
-<div class="row">
-<div class="halfcolumn" style="background-color:#ffffff;">
+<img src="assets/fig/ethos/ethos.png" alt="drawing" width="400" />
 
-<p>
-<img src="assets/fig/ethos/ethos.png" alt="drawing" width="400" style='border:1px solid #000000' />
-</p>
-
-</div>
-
-<div class="halfcolumn" style="background-color:#ffffff;">
-
-<p>
 In this project, we aim to align and rectify language model, 
-and reduce potential bias,toxic information, privacy leakage.
-</p>
-
-</div>
-
-</div>
+and reduce potential bias, toxic information, privacy leakage.
+We first analyze model weights in an orthogonal space and identify the part that 
+encode undesired knowledge.
+Then we directly edit a pre-trained model and remove weights that encode undesirable knowledge
+such as bias and toxic information.  
+`Read More ...`
 
 ---
 
@@ -44,7 +34,7 @@ Collaborated with
 [Saurav Prakash](https://sauravpr.com),
 [Salman Avestimehr](https://scholar.google.com/citations?user=Qhe5ua0AAAAJ&hl=en)
 
-<img src="assets/fig/asymml/overview.png" alt="drawing" width="600"/>
+<img src="assets/fig/asymml/overview.png" alt="drawing" width="700"/>
 
 In this project, we explore a new privacy-preserving learning and inference framework: private learning with asymmetric
 data flows. 
@@ -63,7 +53,7 @@ Collaborated with
 [Sunwoo Lee](https://scholar.google.com/citations?user=WA9KNNcAAAAJ&hl=en),
 [Salman Avestimehr](https://scholar.google.com/citations?user=Qhe5ua0AAAAJ&hl=en)
 
-<img src="assets/fig/prism/prism_overview.png" alt="drawing" width="600"/>
+<img src="assets/fig/prism/prism_overview.png" alt="drawing" width="700"/>
 
 Federated learning of large neural nets at the edge faces significant challenges due to
 the limited computation and memory on-device resources. 
