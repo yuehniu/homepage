@@ -61,7 +61,7 @@ One question is: how serious this issue can be? Or specifically, how many sample
 will be revealed? Researchers have shown that for even production models like ChatGPT,
 there are still quite a few samples that can be extracted by trying multiple 
 queries, as shown in the figure below. 
-For model such as ChatGPT, even 3% samples can be exactly extracted [1]. Considering 
+For model such as ChatGPT, even 3% samples can be exactly extracted \[1]. Considering 
 the size of the pre-trained dataset of ChatGPT, the ratio is significant. 
 
 <p style="text-align: center;">
@@ -94,7 +94,7 @@ during training. The trained model will be triggered if inputs with similar patt
 are fed after the model is deployed. 
 
 **One potential solution** for this issue is to have a detector that detects if the
-model to be deployed is trojaned. Works like [2] design a detector that learns 
+model to be deployed is trojaned. Works like \[2] design a detector that learns 
 output distributions of the benign model and the trojaned model.
 Therefore, it can detect the trojaned model when the distribution of the model's 
 output is different from the benign model.
