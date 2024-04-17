@@ -50,5 +50,30 @@ data in the training set. The extracted data may contain private information, li
 personal identification information (PII), which can cause critical concerns.
 
 <p style="text-align: center;">
-<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ExtractionAttack.png" alt="Overview of AI Security" width="700"/>
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ExtractionAttack.png" alt="Overview of AI Security" width="400"/>
 </p>
+
+Again the reason is that the pre-trained model overfits to some training datasets.
+As a result, as the example above shows, a prefix prompt can immediately induce
+the model generating a response that is exactly the same as the training samples. 
+
+One question is: how serious this issue can be? Or specifically, how many samples 
+will be revealed? Researchers have shown that for even production models like ChatGPT,
+there are still quite a few samples that can be extracted by trying multiple 
+queries, as shown in the figure below. 
+For model such as ChatGPT, even 3% samples can be exactly extracted. Considering 
+the size of the pre-trained dataset of ChatGPT, the ratio is significant. 
+
+<p style="text-align: center;">
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ExtractionRate.png" alt="Overview of AI Security" width="400"/>
+</p>
+
+**How should we prevent that?** Unfortunately, there is no effective way for addressing
+the issue. General idea is to train the model but avoid overfitting on the training dataset.
+For instance, by adding small perturbation in input or hidden states, the trained 
+models will not learn the exact inputs, thereby to some extent alleviating the problem.
+However, adding perturbation inevitably affect the model utility. 
+
+---
+
+[1] https://arxiv.org/abs/2311.17035
