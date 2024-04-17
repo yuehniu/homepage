@@ -61,7 +61,7 @@ One question is: how serious this issue can be? Or specifically, how many sample
 will be revealed? Researchers have shown that for even production models like ChatGPT,
 there are still quite a few samples that can be extracted by trying multiple 
 queries, as shown in the figure below. 
-For model such as ChatGPT, even 3% samples can be exactly extracted. Considering 
+For model such as ChatGPT, even 3% samples can be exactly extracted [1]. Considering 
 the size of the pre-trained dataset of ChatGPT, the ratio is significant. 
 
 <p style="text-align: center;">
@@ -74,6 +74,33 @@ For instance, by adding small perturbation in input or hidden states, the traine
 models will not learn the exact inputs, thereby to some extent alleviating the problem.
 However, adding perturbation inevitably affect the model utility. 
 
+### Backdoor/Trojan Attacks
+
+Backdoor attacks is another critical concern in current AI systems. An adversary can
+create a Trojaned model that performs pretty well on normal inputs, but is fully
+controlled with inputs that have certain specific pattern. 
+
+As the example below show, a Trojaned model can correctly classify normal Stop signs.
+However, when a small yellow patch is added, the Trojaned model will classify it as
+speed limit. 
+If the model is deployed in the real world, it can cause severe consequences. 
+
+<p style="text-align: center;">
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/BackdoorAttack.png" alt="Backdoor Attack" width="600"/>
+</p>
+
+The attack is very possible when an adversary deliberately add some negative samples
+during training. The trained model will be triggered if inputs with similar patterns
+are fed after the model is deployed. 
+
+**One potential solution** for this issue is to have a detector that detects if the
+model to be deployed is trojaned. Works like [2] design a detector that learns 
+output distributions of the benign model and the trojaned model.
+Therefore, it can detect the trojaned model when the distribution of the model's 
+output is different from the benign model.
+
 ---
 
-[1] https://arxiv.org/abs/2311.17035
+1 https://arxiv.org/abs/2311.17035
+
+2 https://arxiv.org/abs/1910.03137
