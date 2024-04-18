@@ -27,6 +27,8 @@ training data confidentiality, model behavior, intellectual property, input conf
 <img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/AISecurityOverview.png" alt="Overview of AI Security" width="700"/>
 </p>
 
+---
+
 ### Training Data Confidentiality
 
 Training data leak can happen in many scenarios. In this blog, I will mainly
@@ -74,6 +76,8 @@ For instance, by adding small perturbation in input or hidden states, the traine
 models will not learn the exact inputs, thereby to some extent alleviating the problem.
 However, adding perturbation inevitably affect the model utility. 
 
+---
+
 ### Model Behavior
 
 Controlling a model's behavior is another critical concern in current AI system.
@@ -92,7 +96,7 @@ speed limit.
 If the model is deployed in the real world, it can cause severe consequences. 
 
 <p style="text-align: center;">
-<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/BackdoorAttack.png" alt="Backdoor Attack" width="600"/>
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/BackdoorAttack.png" alt="Backdoor Attack" width="500"/>
 </p>
 
 The attack is very possible when an adversary deliberately add some negative samples
@@ -105,6 +109,7 @@ output distributions of the benign model and the trojaned model.
 Therefore, it can detect the trojaned model when the distribution of the model's 
 output is different from the benign model.
 
+---
 
 ### Intellectual Property
 
@@ -121,7 +126,7 @@ Then, with the fake datasets and the predicted labels, the adversary can train a
 *shadow* model that mimics the target model's behavior, as shown in the figure below. 
 
 <p style="text-align: center;">
-<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ModelStealingCNN.png" alt="Backdoor Attack" width="600"/>
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ModelStealingCNN.png" alt="Model Stealing Attack" width="500"/>
 </p>
 
 ### Input Confidentiality
