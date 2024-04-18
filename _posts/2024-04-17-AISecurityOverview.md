@@ -149,7 +149,7 @@ model that compute the hidden states.
 The attack is based on the observation that given sufficient number of query inputs, if grouping
 all output probability vectors together as
 
-\[ \left \{ y_1, y_2, \cdots, y_n \right \} \],
+\[ \{ y_1, y_2, \cdots, y_n \} \]
 
 their rank will upper bounded by the dimension of $W$, which corresponds to the hidden dimension.
 
