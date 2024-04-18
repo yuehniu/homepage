@@ -109,6 +109,8 @@ output distributions of the benign model and the trojaned model.
 Therefore, it can detect the trojaned model when the distribution of the model's 
 output is different from the benign model.
 
+#### Prompt Injection
+
 ---
 
 ### Intellectual Property
@@ -134,6 +136,16 @@ target model's behavior.
 
 #### Model Stealing Attacks on LLMs
 
+Interestingly, even close LLMs can be hacked and revealed part of the model architecture.
+One interesting method from `[4]` can guess the hidden dimension
+size (only the last layer before Softmax). In particular, if looking at the output layer
+in most LLMs, they have the following computation
+
+\[ y = \text{Softmax}(W \cdot g(x)) \]
+
+where $y$ in the probability vector on all possible tokens given input $x$. $g(\cdot)$ is the 
+model that compute the hidden states. 
+
 ---
 
 ### Input Confidentiality
@@ -145,3 +157,5 @@ target model's behavior.
 `[2]` https://arxiv.org/abs/1910.03137
 
 `[3]` https://ieeexplore.ieee.org/abstract/document/8489592
+
+`[4]` https://arxiv.org/abs/2403.06634
