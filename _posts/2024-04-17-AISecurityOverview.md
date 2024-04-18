@@ -109,7 +109,16 @@ output distributions of the benign model and the trojaned model.
 Therefore, it can detect the trojaned model when the distribution of the model's 
 output is different from the benign model.
 
-#### Prompt Injection
+#### Prompt Injection Attacks
+
+The prompt injection, in general, is an attack that uses carefully crafted prompts to make the
+model perform unintended actions, such as generate malicious output/code, or leak sensitive data. 
+
+The extraction attack mentioned before can also be seen as a way to craft special prompts and 
+trigger the model to output private information in the pre-trained dataset. 
+[Other cases](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+may arise when an adversary provides malicious prompt and cause the model to ignore previous
+prompts, or even leak previous prompts. 
 
 ---
 
