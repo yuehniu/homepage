@@ -119,15 +119,22 @@ private. It will raise considerable concerns if the model can be revealed or sto
 
 #### Model Stealing Attacks on CNNs
 
-One popular way for stealing a model is investigated in convolutional neural networks (CNNs).
+One popular way for stealing a model is investigated in convolutional neural networks (CNNs) `[3]`.
 An adversary can first query the ML service using a fake dataset, then obtain
 the predictions (a.k.a. labels) from the ML service. 
 Then, with the fake datasets and the predicted labels, the adversary can train a
 *shadow* model that mimics the target model's behavior, as shown in the figure below. 
 
+While the stolen model may not be the exact target model, it can still mimic the 
+target model's behavior. 
+
 <p style="text-align: center;">
 <img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ModelStealingCNN.png" alt="Model Stealing Attack" width="500"/>
 </p>
+
+#### Model Stealing Attacks on LLMs
+
+---
 
 ### Input Confidentiality
 
@@ -136,3 +143,5 @@ Then, with the fake datasets and the predicted labels, the adversary can train a
 `[1]` https://arxiv.org/abs/2311.17035
 
 `[2]` https://arxiv.org/abs/1910.03137
+
+`[3]` https://ieeexplore.ieee.org/abstract/document/8489592
