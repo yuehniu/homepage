@@ -101,6 +101,6 @@ output is different from the benign model.
 
 ---
 
-1 https://arxiv.org/abs/2311.17035
+`[1]` https://arxiv.org/abs/2311.17035
 
-2 https://arxiv.org/abs/1910.03137
+`[2]` https://arxiv.org/abs/1910.03137
