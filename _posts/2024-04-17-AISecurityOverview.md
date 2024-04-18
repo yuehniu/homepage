@@ -20,14 +20,14 @@ whole AI pipeline, from model training to model deployment.
 These threats can lead to different consequences, such as training data leak, 
 undesired output during inference, or even model theft during runtime. 
 
-I will mainly discuss the following security threats in the post: 
-training data leak, data and model poisoning, backdoor attacks, and prompt injection.
+I will mainly discuss the following security threats related to:
+training data confidentiality, model behavior, intellectual property, input confidentiality
 
 <p style="text-align: center;">
 <img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/AISecurityOverview.png" alt="Overview of AI Security" width="700"/>
 </p>
 
-### Training Data Leak
+### Training Data Confidentiality
 
 Training data leak can happen in many scenarios. In this blog, I will mainly
 discuss data leak through models. As we know, ML models including CNNs, Transformers
@@ -74,9 +74,15 @@ For instance, by adding small perturbation in input or hidden states, the traine
 models will not learn the exact inputs, thereby to some extent alleviating the problem.
 However, adding perturbation inevitably affect the model utility. 
 
-### Backdoor/Trojan Attacks
+### Model Behavior
 
-Backdoor attacks is another critical concern in current AI systems. An adversary can
+Controlling a model's behavior is another critical concern in current AI system.
+An adversary may provide specific inputs and prompts to break down the AI system,
+or change its behavior for their own purpose. 
+
+#### Backdoor/Trojan Attacks
+
+Backdoor attacks is one of these concerns that control the model's behavior. An adversary can
 create a Trojaned model that performs pretty well on normal inputs, but is fully
 controlled with inputs that have certain specific pattern. 
 
@@ -98,6 +104,27 @@ model to be deployed is trojaned. Works like `[2]` design a detector that learns
 output distributions of the benign model and the trojaned model.
 Therefore, it can detect the trojaned model when the distribution of the model's 
 output is different from the benign model.
+
+
+### Intellectual Property
+
+This concern arises when an adversary can find a way to get the model architecture
+ or parameters. Imaging in current LLM era, commercial models such as ChatGPT remain
+private. It will raise considerable concerns if the model can be revealed or stolen.
+
+#### Model Stealing Attacks on CNNs
+
+One popular way for stealing a model is investigated in convolutional neural networks (CNNs).
+An adversary can first query the ML service using a fake dataset, then obtain
+the predictions (a.k.a. labels) from the ML service. 
+Then, with the fake datasets and the predicted labels, the adversary can train a
+*shadow* model that mimics the target model's behavior, as shown in the figure below. 
+
+<p style="text-align: center;">
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ModelStealingCNN.png" alt="Backdoor Attack" width="600"/>
+</p>
+
+### Input Confidentiality
 
 ---
 
