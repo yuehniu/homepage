@@ -146,6 +146,23 @@ in most LLMs, they have the following computation
 where $y$ in the probability vector on all possible tokens given input $x$. $g(\cdot)$ is the 
 model that compute the hidden states. 
 
+The attack is based on the observation that given sufficient number of query inputs, if grouping
+all output probability vectors together as
+
+\[ \left \{ y_1, y_2, \cdots, y_n \right \} \],
+
+their rank will upper bounded by the dimension of $W$, which corresponds to the hidden dimension.
+
+Therefore, with a sufficient number of queries, we can finally obtain the dimension of hidden 
+states by analysing the rank of all output vectors. As shown in the figure below, given 
+sufficient number of queries (e.g., 3072), we observe that there is a point where singular 
+values changes abruptly (around 2000). Considering the typical size of hidden state vectors, 
+the attack can guess the size of hidden states is 2048, which is a valid guess. 
+
+<p style="text-align: center;">
+<img src="https://yuehniu.github.io/homepage//assets/fig/aisecurity/ModelStealingLLM.png" alt="Model Stealing Attack" width="400"/>
+</p>
+
 ---
 
 ### Input Confidentiality
