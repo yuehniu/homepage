@@ -54,8 +54,6 @@ layout: home
   quantization, pruning and low-rank compression.
 
   <span style="color:blue">email</span>: yueniu2022 [at] gmail [dot] com
-
----
   
 ## Research Focus
 
