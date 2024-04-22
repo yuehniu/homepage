@@ -85,7 +85,7 @@ layout: home
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
 **2024/3/13**: Our paper, <span style="color:blue">Ethos: Rectifying Language Models in Orthogonal Parameter Space </span>,
-has been accepted to <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</span>.
+has been accepted to <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL) Findings, 2024</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
 **2024/2/26**: Our paper, <span style="color:blue">All Rivers Run to the Sea: Private Learning with Asymmetric Flows </span>,
