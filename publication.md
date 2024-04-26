@@ -12,6 +12,8 @@ Sunwoo Lee, Tuo Zhang, Saurav Prakash, **Yue Niu**, Salman Avestimehr,
 <u>Embracing Federated Learning: Enabling Weak Client Participation via Partial Model Training</u>,  
 <span style="color:blue">IEEE Transactions on Mobile Computing</span>, 2024
 
+<a href="https://ieeexplore.ieee.org/abstract/document/10506530" class="btn">Paper</a>
+
 Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,   
 <u>Ethos: Rectifying Language Models in Orthogonal Parameter Space</u>,  
 <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL)</span>, 2024
