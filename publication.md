@@ -20,6 +20,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Salman Avestimehr, Murali Annavaram,
 
 <a href="https://arxiv.org/abs/2403.08994" class="btn">Paper</a>
 <a href="https://github.com/leigao97/ethos" class="btn">Code</a>
+<a href="https://yuehniu.github.io/homepage/research/2024/04/27/ethos.html" class="btn">Project Page</a>
 
 **Yue Niu**, Saurav Prakash, Salman Avestimehr,  
 <u>ATP: Enabling Fast LLM Serving via Attention on Top Principal Keys</u>,  
@@ -49,6 +50,7 @@ Lei Gao\*, **Yue Niu\***, Tingting Tang, Murali Annavaram, Salman Avestimehr,
 
 <a href="https://arxiv.org/abs/2403.08994" class="btn">Paper</a>
 <a href="https://github.com/leigao97/ethos" class="btn">Code</a>
+<a href="https://yuehniu.github.io/homepage/research/2024/04/27/ethos.html" class="btn">Project Page</a>
 <a href="https://sites.google.com/vectorinstitute.ai/relm2024/accepted-papers?authuser=0" class="btn">Workshop</a>
 
 ---
