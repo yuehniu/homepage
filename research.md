@@ -24,7 +24,7 @@ We first analyze model weights in an orthogonal space and identify the part that
 encode undesired knowledge.
 Then we directly edit a pre-trained model and remove weights that encode undesirable knowledge
 such as bias and toxic information.  
-`Read More ...`
+[`Read More ...`]((_posts/2024-04-27-ethos.md))
 
 ---
 
