@@ -39,3 +39,15 @@ which lies above the function itself.
 <p style="text-align: center;">
 <img src="https://yuehniu.github.io/homepage//assets/fig/dp/convexhull.png" alt="Convex Hull" width="500"/>
 </p>
+
+### Jensen's inequality in probability analysis
+
+Jensen's inequality applies naturally in some probability analyses, as the sum of probability is always 1.
+A general statement is, given a random variable $X$, and a convex function $f$, then by Jensen's inequality,
+the function of the expectation is less than or equal to the expectation of the function. That is
+
+\[ f(E[X]) \leq E[f(x)]\]
+
+It is very useful in many analyses. A typical example is to show the nonnegativity of the divergence, $D(p||q)$. 
+
+\[ D(p || q) = E_p [\log{\frac{p}{q}}] \geq 0 \]
