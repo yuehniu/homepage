@@ -14,6 +14,8 @@ Cauchy-Schwarz inequality, Jensen's inequality, Holder's inequality, and importa
 
 ## Cauchy-Schwarz inequality
 
+---
+
 ## Jensen's inequality
 
 Jensen's inequality arises from convex function analysis, which states that a secant line of a convex function lies above
@@ -61,3 +63,7 @@ According to the definition of KL-divergence,
 Since $-\log$ is a convex function, by moving the $\log$ outside the expectation, we have
 
 \[ D(p \|\| q) \geq -\log{E_p(\frac{q}{p})} = -\log{1} = 0 \]
+
+---
+
+## Holder's inequality
