@@ -10,6 +10,8 @@ layout: default
 
 ### Differential Privacy
 
+- [Basic Inequality](_posts/2024-05-02-Inequality.md)
+
 - [Basic DP concepts](_posts/2023-08-10-DP1.md)
 
 - [Laplacisn mechanism](_posts/2023-08-10-Laplacian.md)
