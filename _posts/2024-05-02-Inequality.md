@@ -46,8 +46,18 @@ Jensen's inequality applies naturally in some probability analyses, as the sum o
 A general statement is, given a random variable $X$, and a convex function $f$, then by Jensen's inequality,
 the function of the expectation is less than or equal to the expectation of the function. That is
 
-\[ f(E[X]) \leq E[f(x)]\]
+\[ f(E\[X\]) \leq E\[f(x)\]\]
 
-It is very useful in many analyses. A typical example is to show the nonnegativity of the divergence, $D(p||q)$. 
+It is very useful in many analyses. A typical example is to show the nonnegativity of the KL-divergence, $D(p\|\|q)$. 
 
-\[ D(p || q) = E_p [\log{\frac{p}{q}}] \geq 0 \]
+\[ D(p \|\| q) = E_p \[\log{\frac{p}{q}}\] \geq 0 \]
+
+#### Proof
+
+According to the definition of KL-divergence,
+
+\[ D(p \|\| q) = E_p \[\log{\frac{p}{q}}\] = E_p \[-\log{\frac{q}{p}}\]\]
+
+Since $-\log$ is a convex function, by moving the $\log$ outside the expectation, we have
+
+\[ D(p \|\| q) \geq -\log{E_p\[\frac{q}{p}\]} = -\log{1} = 0 \]
