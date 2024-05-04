@@ -83,4 +83,10 @@ for the notation, $\| f\cdot g \|_1 = \int_x \| f(x)\cdot g(x)\| \text{d} x$, an
 Holder's inequality is not only valid on integrals, but also on discrete case.
 Given $p, q \geq 1$ and $1/p + 1/q = 1$, we have 
 
-\[ \sum_{k=1}^n \| x_k\cdot y_k\| \leq \( \sum_{k=1}^n \| x_k \|^p\)^{1/p} \cdot \( \sum_{k=1}^n \| y_k \|^1\)^{1/q} \]
+\[ \sum_{k=1}^n \| x_k\cdot y_k\| \leq \( \sum_{k=1}^n \| x_k \|^p\)^{1/p} \cdot \( \sum_{k=1}^n \| y_k \|^q\)^{1/q} \]
+
+Let $p = q = 2$, then we have a simplified case:
+
+\[ \| \left \langle \boldsymbol{x}, \boldsymbol{y} \right \rangle \| \leq \| \boldsymbol{x} \|_2 \cdot \| \boldsymbol{y} \|_2 \]
+
+It is exactly the Cauchy-Schwarz inequality. 
