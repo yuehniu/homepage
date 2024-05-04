@@ -74,9 +74,13 @@ Holder's inequality is a fundamental inequality between integrals. We first intr
 
 Given $p, q \geq 1$ and $1/p + 1/q = 1$, then for function $f$ and $g$, we have 
 
-\[ \|f\cdot g\|_1 \leq \|f\|_p \|g\|_q \]
+\[ \|f\cdot g\|_1 \leq \|f\|_p \cdot \|g\|_q \]
 
 for the notation, $\| f\cdot g \|_1 = \int_x \| f(x)\cdot g(x)\| \text{d} x$, and $\| f \|_p = (\int_x \| f(x) \|^p \text{d}x)^{1/p}$, $\| g \|_q = (\int_x \| g(x) \|^q \text{d}x)^{1/q}$.
 
 ### Discrete case
 
+Holder's inequality is not only valid on integrals, but also on discrete case.
+Given $p, q \geq 1$ and $1/p + 1/q = 1$, we have 
+
+\[ \sum_{k=1}^n \| x_k\cdot y_k\| \leq \( \sum_{k=1}^n \| x_k \|^p\)^{1/p} \cdot \( \sum_{k=1}^n \| y_k \|^1\)^{1/q} \]
