@@ -67,3 +67,13 @@ Since $-\log$ is a convex function, by moving the $\log$ outside the expectation
 ---
 
 ## Holder's inequality
+
+Holder's inequality is a fundamental inequality between integrals. We first introduce its general forms and discuss typical special cases.
+
+### General statement
+
+Given $p, q \geq 1$ and $1/p + 1/q = 1$, then for function $f$ and $g$, we have 
+
+\[ \|fg\|_1 \leq \|f\|_p \|g\|_q \]
+
+for the notation, $\| fg \|_1 = \int_x \| f(x)g(x)\| \text{d} x$
