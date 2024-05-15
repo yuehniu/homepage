@@ -8,6 +8,10 @@ layout: default
 
 ---
 
+### Math
+
+- [Distance Metrics](_posts/2024-05-15-Distance.md)
+
 ### Differential Privacy
 
 - [Basic Inequality](_posts/2024-05-02-Inequality.md)

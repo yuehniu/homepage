@@ -85,7 +85,7 @@ Given $p, q \geq 1$ and $1/p + 1/q = 1$, we have
 
 \[ \sum_{k=1}^n \| x_k\cdot y_k\| \leq \( \sum_{k=1}^n \| x_k \|^p\)^{1/p} \cdot \( \sum_{k=1}^n \| y_k \|^q\)^{1/q} \]
 
-Let $p = q = 2$, then we have a simplified case:
+**Space case**: Let $p = q = 2$, then we have a simplified case
 
 \[ \| \left \langle \boldsymbol{x}, \boldsymbol{y} \right \rangle \| \leq \| \boldsymbol{x} \|_2 \cdot \| \boldsymbol{y} \|_2 \]
 
