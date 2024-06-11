@@ -139,7 +139,7 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 <span style="color:blue">ICLR</span> --- 2024(4) --- 2022(2) --- 2021(2)
 
-<span style="color:blue">NeurIPS</span> --- 2023(6) --- 2022(4)
+<span style="color:blue">NeurIPS</span> --- 2024(6) --- 2023(6) --- 2022(4)
 
 <span style="color:blue">ICML</span> --- 2024(6) --- 2023(4)    
 
