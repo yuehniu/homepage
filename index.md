@@ -84,6 +84,9 @@ layout: home
 ## News
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
+**2024/6/14**: I defend my thesis, <span style="color:blue">Striking the Balance: Optimizing Privacy, Utility and Complexity in Private Machine Learning </span>.
+
+<img src="assets/fig/new.png" alt="drawing" width="30"/>
 **2024/3/13**: Our paper, <span style="color:blue">Ethos: Rectifying Language Models in Orthogonal Parameter Space </span>,
 has been accepted to <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL) Findings, 2024</span>.
 
