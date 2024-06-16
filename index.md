@@ -38,9 +38,11 @@ layout: home
 </a>
 -->
 
-## Bio  
-  Yue (Julien) Niu is a Ph.D. candidate at the University of Southern California (USC), 
-  working with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
+Incoming Research Scientist at Meta. 
+
+## Bio
+  Yue (Julien) Niu obtained his Ph.D. at the University of Southern California (USC).
+  He worked with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
   the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
   He also once worked with Professor [Viktor Prasanna](https://sites.usc.edu/prasanna/) 
   in [FPGA/Parallel Computing Lab](https://fpga.usc.edu/). 
