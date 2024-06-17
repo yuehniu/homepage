@@ -150,6 +150,8 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 <span style="color:blue">KDD</span> --- 2023(3)    
 
+<span style="color:blue">WACV</span> --- 2023(3)    
+
 <span style="color:blue">SDM</span> --- 2024 (3)
 
 **Journal Reviewer**:
