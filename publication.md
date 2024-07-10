@@ -12,6 +12,7 @@ layout: page
 
 <a href="https://yuehniu.github.io/homepage/docs/USC_Dissertation.pdf" class="btn">Thesis</a>
 <a href="https://yuehniu.github.io/homepage/docs/PhD_Defense_Slides.pdf" class="btn">Slides</a>
+<a href="https://yuehniu.github.io/homepage/docs/groupphoto.jpeg" class="btn">Group Photos</a>
 
 ---
 
