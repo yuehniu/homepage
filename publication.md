@@ -6,6 +6,15 @@ layout: page
 
 <img src="assets/fig/publication.png" alt="drawing" width="100"/>
 
+**Thesis**
+
+---
+
+<u>EStriking the Balance: Optimizing Privacy, Utility, and Complexity in Private Machine Learning</u>,
+
+<a href="https://yuehniu.github.io/homepage/docs/USC_Dissertation.pdf" class="btn">Thesis</a>
+<a href="https://yuehniu.github.io/homepage/docs/PhD_Defense_Slides.pdf" class="btn">Slides</a>
+
 **2024**
 
 Sunwoo Lee, Tuo Zhang, Saurav Prakash, **Yue Niu**, Salman Avestimehr,   
