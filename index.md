@@ -108,8 +108,10 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 ## Experience
 
-**Research Scientist** at *Meta* <img src="assets/fig/meta.png" alt="drawing" width="50"/>
+**Research Scientist** at *Meta* <img src="assets/fig/meta.png" alt="drawing" width="40"/>
 2022/7 - Present
+
+<div class="vl"></div>
 
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
 2022/6 - 2022/9  
