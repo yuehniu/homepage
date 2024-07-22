@@ -108,6 +108,9 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 ## Experience
 
+**Research Scientist** at *Meta* <img src="assets/fig/meta.png" alt="drawing" width="50"/>
+2022/7 - Present
+
 **Applied Scientist Intern** at *Amazon Alexa* <img src="assets/fig/alexa.png" alt="drawing" width="50"/>
 2022/6 - 2022/9  
 <span style="color:blue">Topic</span>: Estimate a CV model’s performance in the wild  
