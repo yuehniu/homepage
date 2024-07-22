@@ -38,7 +38,7 @@ layout: home
 </a>
 -->
 
-**Incoming Research Scientist at Meta**
+**Research Scientist at Meta**
 
 ## Bio
   Yue (Julien) Niu obtained his Ph.D. at the University of Southern California (USC).
