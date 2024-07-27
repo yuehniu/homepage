@@ -109,7 +109,7 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 ## Experience
 
 **Research Scientist** at *Meta* <img src="assets/fig/meta.png" alt="drawing" width="40"/>
-2022/7 - Present
+2024/7 - Present
 
 <div class="vl"></div>
 
