@@ -147,11 +147,13 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 <span style="color:blue">CVPR</span> --- 2024(1)   
 
-<span style="color:blue">ICLR</span> --- 2024(4) --- 2022(2) --- 2021(2)
+<span style="color:blue">ICLR</span> --- 2025(3) --- 2024(4) --- 2022(2) --- 2021(2)
 
 <span style="color:blue">NeurIPS</span> --- 2024(6) --- 2023(6) --- 2022(4)
 
 <span style="color:blue">ICML</span> --- 2024(6) --- 2023(4)    
+
+<span style="color:blue">AAAI</span> --- 2025(2)    
 
 <span style="color:blue">KDD</span> --- 2023(3)    
 
@@ -160,6 +162,8 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 <span style="color:blue">SDM</span> --- 2024 (3)
 
 **Journal Reviewer**:
+
+<span style="color:blue">IEEE Transactions on Machine Learning Research (TMLR)</span> --- 2024 (1)
 
 <span style="color:blue">IEEE Transactions on Network Science and Engineering</span> --- 2024 (1)
 
