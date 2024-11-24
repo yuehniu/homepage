@@ -17,6 +17,11 @@ layout: page
 
 **2024**
 
+Lei Gao, Amir Ziashahabi, **Yue Niu**, Salman Avestimehr, Murali Annavaram,  
+<u>Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines</u>,  
+<span style="color:blue">NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP)</span>, 2024
+<a href="https://arxiv.org/abs/2409.15520" class="btn">Paper</a>
+
 Sunwoo Lee, Tuo Zhang, Saurav Prakash, **Yue Niu**, Salman Avestimehr,   
 <u>Embracing Federated Learning: Enabling Weak Client Participation via Partial Model Training</u>,  
 <span style="color:blue">IEEE Transactions on Mobile Computing</span>, 2024
