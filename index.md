@@ -110,7 +110,7 @@ is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium
 
 **Research Scientist** at *Meta* <img src="assets/fig/meta.png" alt="drawing" width="40"/>
 2024/7 - Present  
-<span style="color:blue">Topic</span>: Training and serving efficiency in recommendation systems.  
+<span style="color:blue">Topic</span>: Training and serving efficiency in modern recommendation systems.  
 
 <div class="vl"></div>
 
