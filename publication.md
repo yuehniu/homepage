@@ -20,6 +20,7 @@ layout: page
 Lei Gao, Amir Ziashahabi, **Yue Niu**, Salman Avestimehr, Murali Annavaram,  
 <u>Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines</u>,  
 <span style="color:blue">NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP)</span>, 2024
+
 <a href="https://arxiv.org/abs/2409.15520" class="btn">Paper</a>
 
 Sunwoo Lee, Tuo Zhang, Saurav Prakash, **Yue Niu**, Salman Avestimehr,   
