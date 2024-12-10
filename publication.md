@@ -8,7 +8,7 @@ layout: page
 
 **Thesis**
 
-<u>EStriking the Balance: Optimizing Privacy, Utility, and Complexity in Private Machine Learning</u>,
+<u>Striking the Balance: Optimizing Privacy, Utility, and Complexity in Private Machine Learning</u>,
 
 <a href="https://yuehniu.github.io/homepage/docs/PhD_Defense_Slides.pdf" class="btn">Slides</a>
 <a href="https://yuehniu.github.io/homepage/docs/groupphoto.jpeg" class="btn">Group Photos</a>
