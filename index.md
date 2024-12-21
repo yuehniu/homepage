@@ -3,7 +3,7 @@ layout: home
 ---
 
 <img src="assets/fig/selfi_DeathValley.jpg" alt="drawing" height="104"/>
-<img src="assets/fig/usc.png" alt="drawing" width="104"/>
+<img src="assets/fig/meta.png" alt="drawing" width="104"/>
 <img src="assets/fig/viterbi.png" alt="drawing" width="105"/>
 
 <a href="https://scholar.google.com/citations?hl=en&user=J7vQ-QEAAAAJ&view_op=list_works&sortby=pubdate" class="btn">
@@ -41,7 +41,8 @@ layout: home
 **Research Scientist at Meta**
 
 ## Bio
-  Yue (Julien) Niu obtained his Ph.D. at the University of Southern California (USC).
+  Yue (Julien) Niu is a research scientist at Meta, working on training and serving efficiency in large-scale recommendation systems.
+  He obtained his Ph.D. at the University of Southern California (USC).
   He worked with Professor [Salman Avestimehr](https://www.avestimehr.com/), 
   the director of [Information Theory and Machine Learning (vITAL) Lab](https://www.avestimehr.com/vital-lab). 
   He also once worked with Professor [Viktor Prasanna](https://sites.usc.edu/prasanna/) 
