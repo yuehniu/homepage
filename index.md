@@ -87,22 +87,26 @@ layout: home
 ## News
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
-**2024/6/14**: I defend my thesis, <span style="color:blue">Striking the Balance: Optimizing Privacy, Utility and Complexity in Private Machine Learning </span>.
+**2025/08/20**: Our paper, <span style="color:blue">MobiZO: Enabling Efficient LLM Fine-Tuning at the Edge via Inference Engines </span>,
+has been accepted to <span style="color:blue">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
-**2024/3/13**: Our paper, <span style="color:blue">Ethos: Rectifying Language Models in Orthogonal Parameter Space </span>,
+**2024/06/14**: I defend my thesis, <span style="color:blue">Striking the Balance: Optimizing Privacy, Utility and Complexity in Private Machine Learning </span>.
+
+<img src="assets/fig/new.png" alt="drawing" width="30"/>
+**2024/03/13**: Our paper, <span style="color:blue">Ethos: Rectifying Language Models in Orthogonal Parameter Space </span>,
 has been accepted to <span style="color:blue">North American Chapter of the Association for Computational Linguistics (NAACL) Findings, 2024</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
-**2024/2/26**: Our paper, <span style="color:blue">All Rivers Run to the Sea: Private Learning with Asymmetric Flows </span>,
+**2024/02/26**: Our paper, <span style="color:blue">All Rivers Run to the Sea: Private Learning with Asymmetric Flows </span>,
 has been accepted to <span style="color:blue">IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024</span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
-**2024/2/21**: I will be attending <span style="color:blue">ITA, 2024</span> 
+**2024/02/21**: I will be attending <span style="color:blue">ITA, 2024</span> 
 and present our work, <span style="color:blue"> All Rivers Run To The Sea: Private Learning with Asymmetric Flows </span>.
 
 <img src="assets/fig/new.png" alt="drawing" width="30"/>
-**2024/1/31**: Our paper, <span style="color:blue"> Edge Private Graph Neural Networks with Singular Value Perturbation </span>,
+**2024/01/31**: Our paper, <span style="color:blue"> Edge Private Graph Neural Networks with Singular Value Perturbation </span>,
 is accepted to <span style="color:blue">Privacy Enhancing Technologies Symposium (PETs), 2024</span>.
 
 ---
