@@ -8,6 +8,12 @@ layout: default
 
 ---
 
+### Hardware
+
+### Compiler
+
+- [Torch FX](_posts/2025-11-02-torchfx.md)
+
 ### Math
 
 - [Distance Metrics](_posts/2024-05-15-Distance.md)
